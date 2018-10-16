@@ -1,0 +1,14 @@
+1000G only: 379
+
+NCBI only: 4
+
+ENSEMBL only: 40
+
+1000G and ENSEMBL: 86
+
+1000G and NCBI: 7
+
+NCBI and ENSEMBL: 26
+
+In all databases: 118
+

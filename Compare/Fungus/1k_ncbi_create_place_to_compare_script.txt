@@ -1,0 +1,489 @@
+mkdir Acain1
+cd Acain1
+cp ~/scratch/1000G/single_files/Acain1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003144295.1_Acain1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Altalt1
+cd Altalt1
+cp ~/scratch/1000G/single_files/Altalt1/* 0_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Altal1/* 1_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001642055.1_Altal1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Amore1
+cd Amore1
+cp ~/scratch/1000G/single_files/Amore1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003019875.1_Amore1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Aspacu1
+cd Aspacu1
+cp ~/scratch/1000G/single_files/Aspacu1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003184765.1_Aspacu1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Aspbom1
+cd Aspbom1
+cp ~/scratch/1000G/single_files/Aspbom1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001792695.1_ASM179269v1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Aspbru1
+cd Aspbru1
+cp ~/scratch/1000G/single_files/Aspbru1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003184695.1_Aspbru1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Aspcand1
+cd Aspcand1
+cp ~/scratch/1000G/single_files/Aspcand1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_002847045.1_Aspcand1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Aspcos1
+cd Aspcos1
+cp ~/scratch/1000G/single_files/Aspcos1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003184835.1_Aspcos1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Aspeuc1
+cd Aspeuc1
+cp ~/scratch/1000G/single_files/Aspeuc1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003184535.1_Aspeuc1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Asphet1
+cd Asphet1
+cp ~/scratch/1000G/single_files/Asphet1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003184545.1_Asphet1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Asphom1
+cd Asphom1
+cp ~/scratch/1000G/single_files/Asphom1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003184865.1_Asphom1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Aspibe1
+cd Aspibe1
+cp ~/scratch/1000G/single_files/Aspibe1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003184845.1_Aspibe1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Aspjap1
+cd Aspjap1
+cp ~/scratch/1000G/single_files/Aspjap1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003184785.1_Aspjap1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Asplac1
+cd Asplac1
+cp ~/scratch/1000G/single_files/Asplac1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003184595.1_Asplac1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Aspneo1
+cd Aspneo1
+cp ~/scratch/1000G/single_files/Aspneo1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003184625.1_Aspneo1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Aspnid1
+cd Aspnid1
+cp ~/scratch/1000G/single_files/Aspnid1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000149205.2_ASM14920v2_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Asppip1
+cd Asppip1
+cp ~/scratch/1000G/single_files/Asppip1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003184755.1_Asppip1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Aspsac1
+cd Aspsac1
+cp ~/scratch/1000G/single_files/Aspsac1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003184585.1_Aspsac1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Aspscl1
+cd Aspscl1
+cp ~/scratch/1000G/single_files/Aspscl1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003184525.1_Aspscl1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Aspuva1
+cd Aspuva1
+cp ~/scratch/1000G/single_files/Aspuva1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003184745.1_Aspuva1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Aspvad1
+cd Aspvad1
+cp ~/scratch/1000G/single_files/Aspvad1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003184925.1_Aspvad1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Botci1
+cd Botci1
+cp ~/scratch/1000G/single_files/Botci1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000143535.2_ASM14353v4_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Cersp1
+cd Cersp1
+cp ~/scratch/1000G/single_files/Cersp1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003144195.1_Cersp1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Claim1
+cd Claim1
+cp ~/scratch/1000G/single_files/Claim1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000835495.1_Clad_immu_CBS83496_V1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir CocheC4_1
+cd CocheC4_1
+cp ~/scratch/1000G/single_files/CocheC4_1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000354255.1_CocheC4_1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Color1
+cd Color1
+cp ~/scratch/1000G/single_files/Color1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001831195.1_CORC01_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Copci1
+cd Copci1
+cp ~/scratch/1000G/single_files/Copci1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000182895.1_CC3_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Dicsqu463_1
+cd Dicsqu463_1
+cp ~/scratch/1000G/single_files/Dicsqu463_1/* 0_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Dicsqu464_1/* 1_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Dicsqu18370_1/* 2_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000275845.1_Dichomitus_squalens_v1.0_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Exome1
+cd Exome1
+cp ~/scratch/1000G/single_files/Exome1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000836275.1_Exop_meso_CBS40295_V1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Exool1
+cd Exool1
+cp ~/scratch/1000G/single_files/Exool1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000835515.1_Exop_olig_CBS72588_V1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Exosp1
+cd Exosp1
+cp ~/scratch/1000G/single_files/Exosp1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000836115.1_Exop_spin_CBS89968_V1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Exoxe1
+cd Exoxe1
+cp ~/scratch/1000G/single_files/Exoxe1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000835505.1_Exop_xeno_CBS118157_V1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Fonmo1
+cd Fonmo1
+cp ~/scratch/1000G/single_files/Fonmo1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001642475.1_ASM164247v1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Fonnu1
+cd Fonnu1
+cp ~/scratch/1000G/single_files/Fonnu1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001646965.1_ASM164696v1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Fusgr1
+cd Fusgr1
+cp ~/scratch/1000G/single_files/Fusgr1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000240135.3_ASM24013v3_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Fusoxy1
+cd Fusoxy1
+cp ~/scratch/1000G/single_files/Fusoxy1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000149955.1_ASM14995v2_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Jamsp1
+cd Jamsp1
+cp ~/scratch/1000G/single_files/Jamsp1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003144245.1_Jamsp1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Kocim1
+cd Kocim1
+cp ~/scratch/1000G/single_files/Kocim1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_002102565.1_Kocim1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Lacbi2
+cd Lacbi2
+cp ~/scratch/1000G/single_files/Lacbi2/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000143565.1_V1.0_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Lobtra1
+cd Lobtra1
+cp ~/scratch/1000G/single_files/Lobtra1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_002105155.1_Lobtra1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Meimi1
+cd Meimi1
+cp ~/scratch/1000G/single_files/Meimi1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003144205.1_Meimi1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Mellp2_3
+cd Mellp2_3
+cp ~/scratch/1000G/single_files/Mellp2_3/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000204055.1_v1.0_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Metbi_SCcomb
+cd Metbi_SCcomb
+cp ~/scratch/1000G/single_files/Metbi_SCcomb/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001664035.1_Metbi1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Mixos1
+cd Mixos1
+cp ~/scratch/1000G/single_files/Mixos1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000708205.1_Mixia_osmundae_v1.0_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Mycgr3
+cd Mycgr3
+cp ~/scratch/1000G/single_files/Mycgr3/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000219625.1_MYCGR_v2.0_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Neucr_trp3_1
+cd Neucr_trp3_1
+cp ~/scratch/1000G/single_files/Neucr_trp3_1/* 0_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Neucr4830_1/* 1_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000182925.2_NC12_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Parsp1
+cd Parsp1
+cp ~/scratch/1000G/single_files/Parsp1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001642045.1_Parsp1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Penexp1
+cd Penexp1
+cp ~/scratch/1000G/single_files/Penexp1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000769745.1_ASM76974v1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Phaca1
+cd Phaca1
+cp ~/scratch/1000G/single_files/Phaca1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000300595.1_Phanerochaete_carnosa_HHB-10118-Sp_v1.0_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Phisc1
+cd Phisc1
+cp ~/scratch/1000G/single_files/Phisc1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001500285.1_Phisc1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Phiatt1
+cd Phiatt1
+cp ~/scratch/1000G/single_files/Phiatt1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001299255.1_ASM129925v1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Phybl2
+cd Phybl2
+cp ~/scratch/1000G/single_files/Phybl2/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001638985.1_Phybl2_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Pneji1
+cd Pneji1
+cp ~/scratch/1000G/single_files/Pneji1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001477535.1_Pneu_jiro_RU7_V2_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Podans1
+cd Podans1
+cp ~/scratch/1000G/single_files/Podans1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000226545.1_ASM22654v1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Pospl1
+cd Pospl1
+cp ~/scratch/1000G/single_files/Pospl1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_002117355.1_PosplRSB12_1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Mycfi2
+cd Mycfi2
+cp ~/scratch/1000G/single_files/Mycfi2/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000340215.1_Mycfi2_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Rhodsp1
+cd Rhodsp1
+cp ~/scratch/1000G/single_files/Rhodsp1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003144135.1_Rhodsp1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Pyrtr1
+cd Pyrtr1
+cp ~/scratch/1000G/single_files/Pyrtr1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000149985.1_ASM14998v1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir RhiirA1_1
+cd RhiirA1_1
+cp ~/scratch/1000G/single_files/RhiirA1_1/* 0_1k.fasta.gz
+cp ~/scratch/1000G/single_files/RhiirA4/* 1_1k.fasta.gz
+cp ~/scratch/1000G/single_files/RhiirA5/* 2_1k.fasta.gz
+cp ~/scratch/1000G/single_files/RhiirB3/* 3_1k.fasta.gz
+cp ~/scratch/1000G/single_files/RhiirC2/* 4_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Rhiir2_1/* 5_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000439145.1_ASM43914v3_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Rhimi_ATCC11559_1
+cd Rhimi_ATCC11559_1
+cp ~/scratch/1000G/single_files/Rhimi_ATCC11559_1/* 0_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Rhimi_ATCC52814_1/* 1_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_002708625.1_Rhimi1_1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Rhoto_ATCC26217_1
+cd Rhoto_ATCC26217_1
+cp ~/scratch/1000G/single_files/Rhoto_ATCC26217_1/* 0_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Rhoto_IFO0880_2/* 1_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Rhoto_IFO0880_4/* 2_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Rhoto_IFO0559_1/* 3_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Rhoto_IFO1236_1/* 4_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000320785.1_RHOziaDV1.0_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir SacceYB210_1
+cd SacceYB210_1
+cp ~/scratch/1000G/single_files/SacceYB210_1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000146045.2_R64_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Schco3
+cd Schco3
+cp ~/scratch/1000G/single_files/Schco3/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000143185.1_v1.0_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Schpo1
+cd Schpo1
+cp ~/scratch/1000G/single_files/Schpo1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000002945.1_ASM294v2_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Settu3
+cd Settu3
+cp ~/scratch/1000G/single_files/Settu3/* 0_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Settur3/* 1_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000359705.1_Setospaeria_trucica_Et28A_v1.0_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Thite2
+cd Thite2
+cp ~/scratch/1000G/single_files/Thite2/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000226115.1_ASM22611v1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Tilwa1
+cd Tilwa1
+cp ~/scratch/1000G/single_files/Tilwa1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003144115.1_Tilwa1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Torde1
+cd Torde1
+cp ~/scratch/1000G/single_files/Torde1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000243375.1_ASM24337v1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Triasp1
+cd Triasp1
+cp ~/scratch/1000G/single_files/Triasp1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003025105.1_Trias_v._1.0_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Trici4
+cd Trici4
+cp ~/scratch/1000G/single_files/Trici4/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003025115.1_Trici_v4.0_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Trigam1
+cd Trigam1
+cp ~/scratch/1000G/single_files/Trigam1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001481775.2_TGAM01v2_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Trihar1
+cd Trihar1
+cp ~/scratch/1000G/single_files/Trihar1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003025095.1_Triha_v1.0_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir TrireRUTC30_1
+cd TrireRUTC30_1
+cp ~/scratch/1000G/single_files/TrireRUTC30_1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000167675.1_v2.0_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Triol1
+cd Triol1
+cp ~/scratch/1000G/single_files/Triol1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001027345.1_Triol1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Verga1
+cd Verga1
+cp ~/scratch/1000G/single_files/Verga1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000836295.1_O_gall_CBS43764_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Verda1
+cd Verda1
+cp ~/scratch/1000G/single_files/Verda1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000150675.1_ASM15067v2_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Wican1
+cd Wican1
+cp ~/scratch/1000G/single_files/Wican1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001661255.1_Wican1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Yarlip1
+cd Yarlip1
+cp ~/scratch/1000G/single_files/Yarlip1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000002525.2_ASM252v1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
+mkdir Zygro1
+cd Zygro1
+cp ~/scratch/1000G/single_files/Zygro1/* 0_1k.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000026365.1_ASM2636v1_genomic.fna.gz 0_ncbi.fasta.gz
+cd .. 
+
