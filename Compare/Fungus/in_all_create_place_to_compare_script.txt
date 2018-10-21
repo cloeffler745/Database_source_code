@@ -1,0 +1,195 @@
+mkdir Altalt1
+cd Altalt1
+cp ~/scratch/ensemble/references/single_files/Alternaria_alternata.Altal1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001642055.1_Altal1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Altalt1/* 0_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Altal1/* 1_1k.fasta.gz
+cd .. 
+
+mkdir Aspbom1
+cd Aspbom1
+cp ~/scratch/ensemble/references/single_files/Aspergillus_bombycis.ASM179269v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001792695.1_ASM179269v1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Aspbom1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Claim1
+cd Claim1
+cp ~/scratch/ensemble/references/single_files/Cladophialophora_immunda.Clad_immu_CBS83496_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000835495.1_Clad_immu_CBS83496_V1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Claim1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Color1
+cd Color1
+cp ~/scratch/ensemble/references/single_files/Colletotrichum_orchidophilum.CORC01.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001831195.1_CORC01_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Color1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Triol1
+cd Triol1
+cp ~/scratch/ensemble/references/single_files/Cutaneotrichosporon_oleaginosus.Triol1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001027345.1_Triol1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Triol1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Exome1
+cd Exome1
+cp ~/scratch/ensemble/references/single_files/Exophiala_mesophila.Exop_meso_CBS40295_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000836275.1_Exop_meso_CBS40295_V1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Exome1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Exool1
+cd Exool1
+cp ~/scratch/ensemble/references/single_files/Exophiala_oligosperma.Exop_olig_CBS72588_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000835515.1_Exop_olig_CBS72588_V1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Exool1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Exosp1
+cd Exosp1
+cp ~/scratch/ensemble/references/single_files/Exophiala_spinifera.Exop_spin_CBS89968_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000836115.1_Exop_spin_CBS89968_V1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Exosp1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Exoxe1
+cd Exoxe1
+cp ~/scratch/ensemble/references/single_files/Exophiala_xenobiotica.Exop_xeno_CBS118157_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000835505.1_Exop_xeno_CBS118157_V1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Exoxe1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Fonmo1
+cd Fonmo1
+cp ~/scratch/ensemble/references/single_files/Fonsecaea_monophora.ASM164247v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001642475.1_ASM164247v1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Fonmo1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Fonnu1
+cd Fonnu1
+cp ~/scratch/ensemble/references/single_files/Fonsecaea_nubica.ASM164696v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001646965.1_ASM164696v1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Fonnu1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Fusgr1
+cd Fusgr1
+cp ~/scratch/ensemble/references/single_files/Fusarium_graminearum_gca_000599445.CS3005v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Fusarium_graminearum.RR1.dna.toplevel.fa.gz 1_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000240135.3_ASM24013v3_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Fusgr1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Neucr_trp3_1
+cd Neucr_trp3_1
+cp ~/scratch/ensemble/references/single_files/Neurospora_crassa_gca_000786625.Neucr_trp3_1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000182925.2_NC12_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Neucr_trp3_1/* 0_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Neucr4830_1/* 1_1k.fasta.gz
+cd .. 
+
+mkdir Parsp1
+cd Parsp1
+cp ~/scratch/ensemble/references/single_files/Paraphaeosphaeria_sporulosa.Parsp1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001642045.1_Parsp1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Parsp1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Penexp1
+cd Penexp1
+cp ~/scratch/ensemble/references/single_files/Penicillium_expansum_gca_000769735.ASM76973v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Penicillium_expansum_gca_000769745.ASM76974v1.dna.toplevel.fa.gz 1_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Penicillium_expansum.PEX1.dna.toplevel.fa.gz 2_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000769745.1_ASM76974v1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Penexp1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Phisc1
+cd Phisc1
+cp ~/scratch/ensemble/references/single_files/Phialocephala_scopiformis.Phisc1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001500285.1_Phisc1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Phisc1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Phiatt1
+cd Phiatt1
+cp ~/scratch/ensemble/references/single_files/Phialophora_attae.ASM129925v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001299255.1_ASM129925v1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Phiatt1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Rhimi_ATCC11559_1
+cd Rhimi_ATCC11559_1
+cp ~/scratch/ensemble/references/single_files/Rhizopus_microsporus.Rhimi_ATCC11559_1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_002708625.1_Rhimi1_1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Rhimi_ATCC11559_1/* 0_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Rhimi_ATCC52814_1/* 1_1k.fasta.gz
+cd .. 
+
+mkdir Rhoto_ATCC26217_1
+cd Rhoto_ATCC26217_1
+cp ~/scratch/ensemble/references/single_files/Rhodotorula_toruloides.IFO0880_HGAP3_v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000320785.1_RHOziaDV1.0_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Rhoto_ATCC26217_1/* 0_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Rhoto_IFO0880_2/* 1_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Rhoto_IFO0880_4/* 2_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Rhoto_IFO0559_1/* 3_1k.fasta.gz
+cp ~/scratch/1000G/single_files/Rhoto_IFO1236_1/* 4_1k.fasta.gz
+cd .. 
+
+mkdir SacceYB210_1
+cd SacceYB210_1
+cp ~/scratch/ensemble/references/single_files/Saccharomyces_cerevisiae_gca_000091065.ASM9106v2.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Saccharomyces_cerevisiae_gca_001634645.GLBRCY22-3.dna.toplevel.fa.gz 1_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Saccharomyces_cerevisiae_gca_001983315.ASM198331v1.dna.toplevel.fa.gz 2_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000146045.2_R64_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/SacceYB210_1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Torde1
+cd Torde1
+cp ~/scratch/ensemble/references/single_files/Torulaspora_delbrueckii.ASM24337v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000243375.1_ASM24337v1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Torde1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Trigam1
+cd Trigam1
+cp ~/scratch/ensemble/references/single_files/Trichoderma_gamsii.ASM148177v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001481775.2_TGAM01v2_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Trigam1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Trihar1
+cd Trihar1
+cp ~/scratch/ensemble/references/single_files/Trichoderma_harzianum.ASM98886v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_003025095.1_Triha_v1.0_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Trihar1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Verga1
+cd Verga1
+cp ~/scratch/ensemble/references/single_files/Verruconis_gallopava.O_gall_CBS43764.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000836295.1_O_gall_CBS43764_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Verga1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Yarlip1
+cd Yarlip1
+cp ~/scratch/ensemble/references/single_files/Yarrowia_lipolytica_gca_001761485.ASM176148v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000002525.2_ASM252v1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Yarlip1/* 0_1k.fasta.gz
+cd .. 
+
+mkdir Zygro1
+cd Zygro1
+cp ~/scratch/ensemble/references/single_files/Zygosaccharomyces_rouxii.ASM2636v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Zygosaccharomyces_rouxii_gca_001972345.ZYGR_assembly01.dna.toplevel.fa.gz 1_ensembl.fasta.gz
+cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_000026365.1_ASM2636v1_genomic.fna.gz 0_ncbi.fasta.gz
+cp ~/scratch/1000G/single_files/Zygro1/* 0_1k.fasta.gz
+cd .. 
+

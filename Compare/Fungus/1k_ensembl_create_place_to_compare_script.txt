@@ -23,13 +23,6 @@ cp ~/scratch/1000G/single_files/Allma1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Allomyces_macrogynus_atcc_38327.A_macrogynus_V3.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir Altalt1
-cd Altalt1
-cp ~/scratch/1000G/single_files/Altalt1/* 0_1k.fasta.gz
-cp ~/scratch/1000G/single_files/Altal1/* 1_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Alternaria_alternata.Altal1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
 mkdir Amamu1
 cd Amamu1
 cp ~/scratch/1000G/single_files/Amamu1/* 0_1k.fasta.gz
@@ -64,12 +57,6 @@ mkdir Aspac1
 cd Aspac1
 cp ~/scratch/1000G/single_files/Aspac1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Aspergillus_aculeatus_atcc_16872.Aspac1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
-mkdir Aspbom1
-cd Aspbom1
-cp ~/scratch/1000G/single_files/Aspbom1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Aspergillus_bombycis.ASM179269v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
 mkdir Aspbr1
@@ -362,12 +349,6 @@ cp ~/scratch/1000G/single_files/Claca1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Cladophialophora_carrionii_cbs_160_54.Clad_carr_CBS_160_54_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir Claim1
-cd Claim1
-cp ~/scratch/1000G/single_files/Claim1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Cladophialophora_immunda.Clad_immu_CBS83496_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
 mkdir Claps1
 cd Claps1
 cp ~/scratch/1000G/single_files/Claps1/* 0_1k.fasta.gz
@@ -446,12 +427,6 @@ cp ~/scratch/1000G/single_files/Colny1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Colletotrichum_nymphaeae_sa_01.CNYM01.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir Color1
-cd Color1
-cp ~/scratch/1000G/single_files/Color1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Colletotrichum_orchidophilum.CORC01.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
 mkdir Colsa1
 cd Colsa1
 cp ~/scratch/1000G/single_files/Colsa1/* 0_1k.fasta.gz
@@ -491,7 +466,7 @@ cd ..
 mkdir Conap1
 cd Conap1
 cp ~/scratch/1000G/single_files/Conap1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Coniosporium_apollinis_cbs_100218.Coni_apol_CBS100218__V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Coniosporium_apollinis_cbs_100218.Coni_apol_CBS100218_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
 mkdir Cormi1
@@ -557,14 +532,14 @@ cd ..
 mkdir Dipse1
 cd Dipse1
 cp ~/scratch/1000G/single_files/Dipse1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Diplodia_seriata.UCDDS831v0.1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Diplodia_seriata_gca_001975905.Dipser_v1.dna.toplevel.fa.gz 1_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Diplodia_seriata_gca_001975905.Dipser_v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Diplodia_seriata.UCDDS831v0.1.dna.toplevel.fa.gz 1_ensembl.fasta.gz
 cd .. 
 
 mkdir Dotse1
 cd Dotse1
 cp ~/scratch/1000G/single_files/Dotse1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Dothistroma_septosporum.Dothistroma_septosporum_NZE10_v1.0.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Dothistroma_septosporum.GCA_000340195.1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
 mkdir Enccu1
@@ -639,34 +614,10 @@ cp ~/scratch/1000G/single_files/Exode1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Exophiala_dermatitidis_nih_ut8656.Exop_derm_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir Exome1
-cd Exome1
-cp ~/scratch/1000G/single_files/Exome1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Exophiala_mesophila.Exop_meso_CBS40295_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
-mkdir Exool1
-cd Exool1
-cp ~/scratch/1000G/single_files/Exool1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Exophiala_oligosperma.Exop_olig_CBS72588_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
 mkdir Exosi1
 cd Exosi1
 cp ~/scratch/1000G/single_files/Exosi1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Exophiala_sideris.Exop_side_CBS121828_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
-mkdir Exosp1
-cd Exosp1
-cp ~/scratch/1000G/single_files/Exosp1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Exophiala_spinifera.Exop_spin_CBS89968_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
-mkdir Exoxe1
-cd Exoxe1
-cp ~/scratch/1000G/single_files/Exoxe1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Exophiala_xenobiotica.Exop_xeno_CBS118157_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
 mkdir Fibsp1
@@ -687,35 +638,16 @@ cp ~/scratch/1000G/single_files/Fomme1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Fomitiporia_mediterranea_mf3_22.Fomme1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir Fonmo1
-cd Fonmo1
-cp ~/scratch/1000G/single_files/Fonmo1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Fonsecaea_monophora.ASM164247v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
 mkdir Fonmu1
 cd Fonmu1
 cp ~/scratch/1000G/single_files/Fonmu1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Fonsecaea_multimorphosa_cbs_102226.Fons_mult_CBS_102226_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir Fonnu1
-cd Fonnu1
-cp ~/scratch/1000G/single_files/Fonnu1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Fonsecaea_nubica.ASM164696v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
 mkdir Fonpe1
 cd Fonpe1
 cp ~/scratch/1000G/single_files/Fonpe1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Fonsecaea_pedrosoi_cbs_271_37.Fons_pedr_CBS_271_37_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
-mkdir Fusgr1
-cd Fusgr1
-cp ~/scratch/1000G/single_files/Fusgr1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Fusarium_graminearum.RR_1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Fusarium_graminearum_gca_000599445.CS3005v1.dna.toplevel.fa.gz 1_ensembl.fasta.gz
 cd .. 
 
 mkdir Fusox2
@@ -727,7 +659,7 @@ cd ..
 mkdir Fusps1
 cd Fusps1
 cp ~/scratch/1000G/single_files/Fusps1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Fusarium_pseudograminearum.FP7.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Fusarium_pseudograminearum.GCA_000303195.1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
 mkdir Fusve2
@@ -921,7 +853,7 @@ mkdir Micld1
 cd Micld1
 cp ~/scratch/1000G/single_files/Micld1/* 0_1k.fasta.gz
 cp ~/scratch/1000G/single_files/Micvi1/* 1_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Microbotryum_violaceum.M_violaceum_V1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Microbotryum_violaceum.GCA_000166175.1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
 mkdir Micbo1
@@ -1008,13 +940,6 @@ cp ~/scratch/1000G/single_files/Neofi1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Neosartorya_fischeri.ASM14964v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir Neucr_trp3_1
-cd Neucr_trp3_1
-cp ~/scratch/1000G/single_files/Neucr_trp3_1/* 0_1k.fasta.gz
-cp ~/scratch/1000G/single_files/Neucr4830_1/* 1_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Neurospora_crassa_gca_000786625.Neucr_trp3_1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
 mkdir Neucr2
 cd Neucr2
 cp ~/scratch/1000G/single_files/Neucr2/* 0_1k.fasta.gz
@@ -1069,12 +994,6 @@ cp ~/scratch/1000G/single_files/Parbra1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Paracoccidioides_brasiliensis_pb18.Paracocci_br_Pb18_V2.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir Parsp1
-cd Parsp1
-cp ~/scratch/1000G/single_files/Parsp1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Paraphaeosphaeria_sporulosa.Parsp1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
 mkdir Parpar1
 cd Parpar1
 cp ~/scratch/1000G/single_files/Parpar1/* 0_1k.fasta.gz
@@ -1121,14 +1040,6 @@ mkdir Pendig1
 cd Pendig1
 cp ~/scratch/1000G/single_files/Pendig1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Penicillium_digitatum_pd1.PdigPd1_v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
-mkdir Penexp1
-cd Penexp1
-cp ~/scratch/1000G/single_files/Penexp1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Penicillium_expansum.PEX1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Penicillium_expansum_gca_000769735.ASM76973v1.dna.toplevel.fa.gz 1_ensembl.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Penicillium_expansum_gca_000769745.ASM76974v1.dna.toplevel.fa.gz 2_ensembl.fasta.gz
 cd .. 
 
 mkdir Penfla1
@@ -1197,18 +1108,6 @@ cp ~/scratch/1000G/single_files/Phach1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Phaeomoniella_chlamydospora.UCRPA7V1.0.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir Phisc1
-cd Phisc1
-cp ~/scratch/1000G/single_files/Phisc1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Phialocephala_scopiformis.Phisc1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
-mkdir Phiatt1
-cd Phiatt1
-cp ~/scratch/1000G/single_files/Phiatt1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Phialophora_attae.ASM129925v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
 mkdir Phlcen1
 cd Phlcen1
 cp ~/scratch/1000G/single_files/Phlcen1/* 0_1k.fasta.gz
@@ -1230,7 +1129,7 @@ cd ..
 mkdir Picpa1
 cd Picpa1
 cp ~/scratch/1000G/single_files/Picpa1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Komagataella_pastoris.ASM2700v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Komagataella_pastoris.GCA_000027005.1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Komagataella_phaffii_gs115.ASM174695v1.dna.toplevel.fa.gz 1_ensembl.fasta.gz
 cd .. 
 
@@ -1322,7 +1221,7 @@ cd ..
 mkdir Pyrtt1
 cd Pyrtt1
 cp ~/scratch/1000G/single_files/Pyrtt1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Pyrenophora_teres.PyrTer_1.0.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Pyrenophora_teres.GCA_000166005.1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
 mkdir Pyrco1
@@ -1355,23 +1254,6 @@ cp ~/scratch/1000G/single_files/Rhivi1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Rhizopogon_vinicolor_am_or11_026.Rhivi1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir Rhimi_ATCC11559_1
-cd Rhimi_ATCC11559_1
-cp ~/scratch/1000G/single_files/Rhimi_ATCC11559_1/* 0_1k.fasta.gz
-cp ~/scratch/1000G/single_files/Rhimi_ATCC52814_1/* 1_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Rhizopus_microsporus.Rhimi_ATCC11559_1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
-mkdir Rhoto_ATCC26217_1
-cd Rhoto_ATCC26217_1
-cp ~/scratch/1000G/single_files/Rhoto_ATCC26217_1/* 0_1k.fasta.gz
-cp ~/scratch/1000G/single_files/Rhoto_IFO0880_2/* 1_1k.fasta.gz
-cp ~/scratch/1000G/single_files/Rhoto_IFO0880_4/* 2_1k.fasta.gz
-cp ~/scratch/1000G/single_files/Rhoto_IFO0559_1/* 3_1k.fasta.gz
-cp ~/scratch/1000G/single_files/Rhoto_IFO1236_1/* 4_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Rhodotorula_toruloides.IFO0880_HGAP3_v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
 mkdir Rhoto1
 cd Rhoto1
 cp ~/scratch/1000G/single_files/Rhoto1/* 0_1k.fasta.gz
@@ -1402,19 +1284,11 @@ cp ~/scratch/1000G/single_files/Sacce1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Saccharomyces_cerevisiae.R64-1-1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir SacceYB210_1
-cd SacceYB210_1
-cp ~/scratch/1000G/single_files/SacceYB210_1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Saccharomyces_cerevisiae_gca_000091065.ASM9106v2.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Saccharomyces_cerevisiae_gca_001634645.GLBRCY22-3.dna.toplevel.fa.gz 1_ensembl.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Saccharomyces_cerevisiae_gca_001983315.ASM198331v1.dna.toplevel.fa.gz 2_ensembl.fasta.gz
-cd .. 
-
 mkdir Saico1
 cd Saico1
 cp ~/scratch/1000G/single_files/Saico1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Saitoella_complicata_nrrl_y_17804.Scomplicata_3.0.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Saitoella_complicata_nrrl_y_17804_gca_001661265.Saico1.dna.toplevel.fa.gz 1_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Saitoella_complicata_nrrl_y_17804_gca_001661265.Saico1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Saitoella_complicata_nrrl_y_17804.Scomplicata_3.0.dna.toplevel.fa.gz 1_ensembl.fasta.gz
 cd .. 
 
 mkdir Picst3
@@ -1432,19 +1306,19 @@ cd ..
 mkdir Schcy1
 cd Schcy1
 cp ~/scratch/1000G/single_files/Schcy1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Schizosaccharomyces_cryophilus.SCY4.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Schizosaccharomyces_cryophilus.GCA_000004155.2.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
 mkdir Schja1
 cd Schja1
 cp ~/scratch/1000G/single_files/Schja1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Schizosaccharomyces_japonicus.SJ5.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Schizosaccharomyces_japonicus.GCA_000149845.2.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
 mkdir Schoc1
 cd Schoc1
 cp ~/scratch/1000G/single_files/Schoc1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Schizosaccharomyces_octosporus.SO6.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Schizosaccharomyces_octosporus.GCA_000150505.2.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
 mkdir Sclci1
@@ -1456,8 +1330,8 @@ cd ..
 mkdir Sclsc1
 cd Sclsc1
 cp ~/scratch/1000G/single_files/Sclsc1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Sclerotinia_sclerotiorum.ASM14694v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Sclerotinia_sclerotiorum_1980_uf_70.ASM185786v1.dna.toplevel.fa.gz 1_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Sclerotinia_sclerotiorum_1980_uf_70.ASM185786v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Sclerotinia_sclerotiorum.ASM14694v1.dna.toplevel.fa.gz 1_ensembl.fasta.gz
 cd .. 
 
 mkdir Sebve1
@@ -1505,7 +1379,7 @@ cd ..
 mkdir Spore1
 cd Spore1
 cp ~/scratch/1000G/single_files/Spore1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Sporisorium_reilianum.ASM23024v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Sporisorium_reilianum.GCA_000230245.1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
 mkdir Stano2
@@ -1562,12 +1436,6 @@ cp ~/scratch/1000G/single_files/Canca1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Tortispora_caseinolytica_nrrl_y_17796.Canca1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir Torde1
-cd Torde1
-cp ~/scratch/1000G/single_files/Torde1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Torulaspora_delbrueckii.ASM24337v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
 mkdir Trapub1
 cd Trapub1
 cp ~/scratch/1000G/single_files/Trapub1/* 0_1k.fasta.gz
@@ -1592,22 +1460,10 @@ cp ~/scratch/1000G/single_files/Triat2/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Trichoderma_atroviride_imi_206040.TRIAT_v2.0.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir Trigam1
-cd Trigam1
-cp ~/scratch/1000G/single_files/Trigam1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Trichoderma_gamsii.ASM148177v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
-mkdir Trihar1
-cd Trihar1
-cp ~/scratch/1000G/single_files/Trihar1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Trichoderma_harzianum.ASM98886v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
 mkdir Trire2
 cd Trire2
 cp ~/scratch/1000G/single_files/Trire2/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Trichoderma_reesei.v2.0.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Trichoderma_reesei.GCA_000167675.2.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
 mkdir TriviGv29_8_2
@@ -1619,7 +1475,7 @@ cd ..
 mkdir Triru1
 cd Triru1
 cp ~/scratch/1000G/single_files/Triru1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Trichophyton_rubrum_cbs_118892.ASM15142v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Trichophyton_rubrum_cbs_118892.ASM15142v1.dna_sm.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
 mkdir Triver1
@@ -1640,12 +1496,6 @@ cp ~/scratch/1000G/single_files/Trias8904/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Trichosporon_asahii_var_asahii_cbs_8904.ASM29921v2.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir Triol1
-cd Triol1
-cp ~/scratch/1000G/single_files/Triol1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Cutaneotrichosporon_oleaginosus.Triol1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
 mkdir Tubme1
 cd Tubme1
 cp ~/scratch/1000G/single_files/Tubme1/* 0_1k.fasta.gz
@@ -1655,7 +1505,7 @@ cd ..
 mkdir Tulca1
 cd Tulca1
 cp ~/scratch/1000G/single_files/Tulca1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Tulasnella_calospora_mut_4182.Tulasnella_calospora_AL13/4D_v1.0.dna.toplevel.fa.gz 0_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Tulasnella_calospora_mut_4182.Tulasnella_calospora_AL13_4D_v1.0.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
 mkdir Uncre1
@@ -1677,12 +1527,6 @@ cp ~/scratch/1000G/single_files/Ustma2_2/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Ustilago_maydis.Umaydis521_2.0.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir Verga1
-cd Verga1
-cp ~/scratch/1000G/single_files/Verga1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Verruconis_gallopava.O_gall_CBS43764.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
 mkdir Walic1
 cd Walic1
 cp ~/scratch/1000G/single_files/Walic1/* 0_1k.fasta.gz
@@ -1701,23 +1545,10 @@ cp ~/scratch/1000G/single_files/Xylhe1/* 0_1k.fasta.gz
 cp ~/scratch/ensemble/references/single_files/Xylona_heveae_tc161.Xylona_heveae_TC161_v1.0.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
-mkdir Yarlip1
-cd Yarlip1
-cp ~/scratch/1000G/single_files/Yarlip1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Yarrowia_lipolytica_gca_001761485.ASM176148v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
 mkdir Yarli1
 cd Yarli1
 cp ~/scratch/1000G/single_files/Yarli1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Yarrowia_lipolytica.ASM252v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cd .. 
-
-mkdir Zygro1
-cd Zygro1
-cp ~/scratch/1000G/single_files/Zygro1/* 0_1k.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Zygosaccharomyces_rouxii.ASM2636v1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
-cp ~/scratch/ensemble/references/single_files/Zygosaccharomyces_rouxii_gca_001972345.ZYGR_assembly01.dna.toplevel.fa.gz 1_ensembl.fasta.gz
+cp ~/scratch/ensemble/references/single_files/Yarrowia_lipolytica.GCA_000002525.1.dna.toplevel.fa.gz 0_ensembl.fasta.gz
 cd .. 
 
 mkdir Zymbr1
