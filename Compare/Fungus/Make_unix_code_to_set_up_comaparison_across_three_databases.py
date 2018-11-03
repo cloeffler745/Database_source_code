@@ -34,6 +34,7 @@ def make_list_of_lists_into_dictionary(list_of_lists, placek, placev):
             dict[i[placek]] += [i[placev]]
     return dict
 
+
 # This function takes in three dictionaries and pairs the values in the first two by their keys. So for our purposes
 # this function will match the filenames of references from two seperate databases by the species taxid
 # It creates list of lists (matched) where each element of the parent list is pair of lists

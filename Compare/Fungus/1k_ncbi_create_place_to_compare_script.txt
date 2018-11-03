@@ -323,3 +323,4 @@ cd Wican1
 cp ~/scratch/1000G/single_files/Wican1/* 0_1k.fasta.gz
 cp ~/scratch/NCBI/rop/rop/db_human/fungi/NCBInew/GCF_001661255.1_Wican1_genomic.fna.gz 0_ncbi.fasta.gz
 cd .. 
+

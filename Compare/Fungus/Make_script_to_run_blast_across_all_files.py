@@ -37,7 +37,7 @@ def write_script_that_will_compare(filename_output, query_name, subject_name, li
         code.write("awk '/^>/ {printf(\"\\n%s\\n\",$0);next; } { printf(\"%s\",$0);}  END {printf(\"\\n\");}' 0_" + subject_name + ".fasta > " + subject_name + "_new.fasta\n")
         code.write("gzip 0_" + subject_name + ".fasta\n")
 
-        code.write("~/project/anaconda2/bin/blastn -query " + query_name + "_new.fasta -subject " + subject_name + "_new.fasta  -outfmt \"7 qseqid sseqid pident qlen slen length mismatch\" -max_target_seqs 10 -out blast_results.txt\n")
+        code.write("~/project/anaconda2/bin/blastn -query " + query_name + "_new.fasta -subject " + subject_name + "_new.fasta  -outfmt \"7 qseqid sseqid pident qlen slen length qstart sstart mismatch\" -max_target_seqs 10 -out blast_results.txt\n")
         code.write("~/project/anaconda2/bin/python ../extract.py blast_results.txt\n")
         code.write("cd ..\n\n")
     code.close()
