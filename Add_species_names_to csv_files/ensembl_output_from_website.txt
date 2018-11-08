@@ -1,0 +1,812 @@
+#code	taxid	primary taxid	taxname
+1	4829	4829	Absidia glauca
+1	245562	245562	Acidomyces richmondensis
+1	766039	766039	Acidomyces richmondensis BFW
+1	857340	857340	Acremonium chrysogenum ATCC 11550
+1	597362	597362	Agaricus bisporus var. burnettii JB137-S8
+1	578462	578462	Allomyces macrogynus ATCC 38327
+1	5599	5599	Alternaria alternata
+1	946122	946122	Amanita muscaria Koide BX008
+1	1866961	1866961	Amphiamblys sp. WSBS2006
+1	1240240	1240240	Anncaliia algerae PRA109
+1	1288291	1288291	Anncaliia algerae PRA339
+1	1277687	1277687	Anthracocystis flocculosa PF-1
+1	756982	756982	Arthrobotrys oligospora ATCC 24927
+1	554155	554155	Microsporum canis CBS 113480
+1	1081109	1081109	Moelleriella libera RCEF 2490
+1	5454	5454	Ascochyta rabiei
+1	1344418	1344418	Ascoidea rubescens DSM 1968
+1	392613	392613	Ascosphaera apis ARSEF 7405
+1	284811	284811	Eremothecium gossypii ATCC 10895
+1	690307	690307	Aspergillus aculeatus ATCC 16872
+1	109264	109264	Aspergillus bombycis
+1	767769	767769	Aspergillus brasiliensis CBS 101740
+1	454130	454130	Aspergillus calidoustus
+1	602072	602072	Aspergillus carbonarius ITEM 5010
+1	344612	344612	Aspergillus clavatus NRRL 1
+1	573508	573508	Aspergillus cristatus
+1	1392242	1392242	Aspergillus flavus AF70
+1	332952	332952	Aspergillus flavus NRRL3357
+1	451804	451804	Aspergillus fumigatus A1163
+1	330879	330879	Aspergillus fumigatus Af293
+1	1476192	1476192	Aspergillus fumigatus var. RP-2014
+1	1437362	1437362	Aspergillus fumigatus Z5
+1	1160497	1160497	Aspergillus glaucus CBS 516.65
+1	293939	293939	Aspergillus lentulus
+1	1069201	1069201	Aspergillus luchuensis
+1	1137211	1137211	Aspergillus luchuensis CBS 106.47
+1	227321	227321	Aspergillus nidulans FGSC A4
+1	227321	227321	Aspergillus nidulans FGSC A4
+1	5061	5061	Aspergillus niger
+1	380704	380704	Aspergillus niger ATCC 1015
+1	5061	5061	Aspergillus niger
+1	1509407	1509407	Aspergillus nomius NRRL 13137
+1	138278	138278	Aspergillus ochraceoroseus
+1	1197718	1197718	Aspergillus oryzae 100-8
+1	1160506	1160506	Aspergillus oryzae 3.042
+1	510516	510516	Aspergillus oryzae RIB40
+1	5062	5062	Aspergillus oryzae
+1	1403190	1403190	Aspergillus parasiticus SU-1
+1	308745	308745	Aspergillus rambellii
+1	1388766	1388766	Aspergillus ruber CBS 135680
+1	1036612	1036612	Aspergillus sydowii CBS 593.65
+1	341663	341663	Aspergillus terreus NIH2624
+1	767770	767770	Aspergillus tubingensis CBS 134.48
+1	91492	91492	Aspergillus udagawae
+1	40382	40382	Aspergillus ustus
+1	1036611	1036611	Aspergillus versicolor CBS 583.65
+1	1073089	1073089	Aspergillus wentii DTO 134E9
+1	1043003	1043003	Aureobasidium melanogenum CBS 110374
+1	1043004	1043004	Aureobasidium namibiae CBS 147.97
+1	5580	5580	Aureobasidium pullulans
+1	1043002	1043002	Aureobasidium pullulans EXF-150
+1	1043005	1043005	Aureobasidium subglaciale EXF-2481
+1	984486	984486	Babjeviella inositovora NRRL Y-12698
+1	684364	684364	Batrachochytrium dendrobatidis JAM81
+1	403673	403673	Batrachochytrium dendrobatidis JEL423
+1	1357716	1357716	Batrachochytrium salamandrivorans
+1	717646	717646	Baudoinia panamericana UAMH 10762
+1	655819	655819	Beauveria bassiana ARSEF 2860
+1	176275	176275	Beauveria bassiana
+1	1245745	1245745	Beauveria bassiana D1-5
+1	665024	665024	Bipolaris maydis ATCC 48331
+1	701091	701091	Bipolaris maydis C5
+1	930090	930090	Bipolaris oryzae ATCC 44560
+1	665912	665912	Bipolaris sorokiniana ND90Pr
+1	930091	930091	Bipolaris victoriae FI3
+1	930089	930089	Bipolaris zeicola 26-R-13
+1	653446	653446	Blastomyces dermatitidis ATCC 18188
+1	447095	447095	Blastomyces dermatitidis ATCC 26199
+1	559297	559297	Blastomyces dermatitidis ER-3
+1	559298	559298	Blastomyces gilchristii SLH14081
+1	1658174	1658174	Blastomyces percursus
+1	546991	546991	Blumeria graminis f. sp. hordei DH14
+1	1268274	1268274	Blumeria graminis f. sp. tritici 96224
+1	930990	930990	Botryobasidium botryosum FD-172 SS1
+1	332648	332648	Botrytis cinerea B05.10
+1	1290391	1290391	Botrytis cinerea BcDW1
+1	999810	999810	Botrytis cinerea T4
+1	1124627	1124627	Brettanomyces bruxellensis AWRI1499
+1	1356009	1356009	Byssochlamys spectabilis No. 5
+1	1353952	1353952	Calocera cornea HHB12733
+1	1330018	1330018	Calocera viscosa TUFC12733
+1	1094981	1094981	Candida albicans 12C
+1	1094987	1094987	Candida albicans 19F
+1	1165368	1165368	Candida albicans Ca6
+1	1094988	1094988	Candida albicans GC75
+1	1094982	1094982	Candida albicans L26
+1	1094991	1094991	Candida albicans P34048
+1	1094985	1094985	Candida albicans P37005
+1	1094992	1094992	Candida albicans P37037
+1	1094993	1094993	Candida albicans P37039
+1	1094996	1094996	Candida albicans P57055
+1	1094990	1094990	Candida albicans P57072
+1	1094986	1094986	Candida albicans P60002
+1	1094994	1094994	Candida albicans P75010
+1	1094995	1094995	Candida albicans P75016
+1	1094997	1094997	Candida albicans P75063
+1	1094998	1094998	Candida albicans P76055
+1	1094999	1094999	Candida albicans P76067
+1	1095000	1095000	Candida albicans P78042
+1	1094989	1094989	Candida albicans P78048
+1	1094984	1094984	Candida albicans P87
+1	1094983	1094983	Candida albicans P94015
+1	237561	237561	Candida albicans SC5314
+1	237561	237561	Candida albicans SC5314
+1	237561	237561	Candida albicans SC5314
+1	294748	294748	Candida albicans WO-1
+1	983967	983967	[Candida] arabinofermentans NRRL YB-2248
+1	498019	498019	[Candida] auris
+1	573826	573826	Candida dubliniensis CD36
+1	5478	5478	[Candida] glabrata
+1	5478	5478	[Candida] glabrata
+1	5478	5478	[Candida] glabrata
+1	5478	5478	[Candida] glabrata
+1	5478	5478	[Candida] glabrata
+1	5478	5478	[Candida] glabrata
+1	5478	5478	[Candida] glabrata
+1	45354	45354	[Candida] intermedia
+1	45354	45354	[Candida] intermedia
+1	1245528	1245528	Candida maltosa Xu316
+1	1136231	1136231	Candida orthopsilosis Co 90-125
+1	5480	5480	Candida parapsilosis
+1	984487	984487	Suhomyces tanzawaensis NRRL Y-17324
+1	590646	590646	Yamadazyma tenuis ATCC 10573
+1	294747	294747	Candida tropicalis MYA-3404
+1	1182541	1182541	Capronia coronata CBS 617.96
+1	1182542	1182542	Capronia epimyces CBS 606.96
+1	401625	401625	Ceraceosorus bombacis
+1	88771	88771	Ceratocystis platani
+1	306901	306901	Chaetomium globosum CBS 148.51
+1	759272	759272	Chaetomium thermophilum var. thermophilum DSM 1495
+1	101091	101091	Choanephora cucurbitarum
+1	1442370	1442370	Cladophialophora bantiana CBS 173.52
+1	86049	86049	Cladophialophora carrionii
+1	1279043	1279043	Cladophialophora carrionii CBS 160.54
+1	569365	569365	Cladophialophora immunda
+1	1182543	1182543	Cladophialophora psammophila CBS 110553
+1	1182544	1182544	Cladophialophora yegresii CBS 114405
+1	1111077	1111077	Claviceps purpurea 20.1
+1	306902	306902	Clavispora lusitaniae ATCC 42720
+1	396776	396776	Coccidioides immitis H538.4
+1	404692	404692	Coccidioides immitis RMSCC 2394
+1	454286	454286	Coccidioides immitis RMSCC 3703
+1	246410	246410	Coccidioides immitis RS
+1	222929	222929	Coccidioides posadasii C735 delta SOWgp
+1	454284	454284	Coccidioides posadasii RMSCC 3488
+1	443226	443226	Coccidioides posadasii str. Silveira
+1	708187	708187	Colletotrichum chlorophyti
+1	1445577	1445577	Colletotrichum fioriniae PJ7
+1	1237896	1237896	Colletotrichum gloeosporioides Cg-14
+1	1213859	1213859	Colletotrichum fructicola Nara gc5
+1	645133	645133	Colletotrichum graminicola M1.001
+1	80884	80884	Colletotrichum higginsianum
+1	759273	759273	Colletotrichum higginsianum IMI 349063
+1	1573173	1573173	Colletotrichum incanum
+1	1573173	1573173	Colletotrichum incanum
+1	1460502	1460502	Colletotrichum nymphaeae SA-01
+1	1213857	1213857	Colletotrichum orbiculare MAFF 240422
+1	1209926	1209926	Colletotrichum orchidophilum
+1	1209931	1209931	Colletotrichum salicis
+1	703756	703756	Colletotrichum simmondsii
+1	1173701	1173701	Colletotrichum sublineola
+1	708197	708197	Colletotrichum tofieldiae
+1	796925	796925	Conidiobolus coronatus NRRL 28638
+1	1408157	1408157	Coniochaeta ligniaria NRRL 30616
+1	741705	741705	Coniophora puteana RWD-64-598 SS2
+1	1168221	1168221	Coniosporium apollinis CBS 100218
+1	240176	240176	Coprinopsis cinerea okayama7#130
+1	1081107	1081107	Cordyceps brongniartii RCEF 3172
+1	1105325	1105325	Cordyceps confragosa
+1	1081108	1081108	Cordyceps confragosa RCEF 1005
+1	983644	983644	Cordyceps militaris CM01
+1	1295533	1295533	Cryptococcus amylolentus CBS 6039
+1	1296118	1296118	Cryptococcus amylolentus CBS 6273
+1	1295531	1295531	Cryptococcus depauperatus CBS 7841
+1	1295532	1295532	Cryptococcus depauperatus CBS 7855
+1	1296109	1296109	Cryptococcus gattii CA1280
+1	1296111	1296111	Cryptococcus gattii CA1873
+1	1296102	1296102	Cryptococcus gattii E566
+1	1296103	1296103	Cryptococcus gattii EJB2
+1	1296108	1296108	Cryptococcus gattii NT-10
+1	1296112	1296112	Cryptococcus gattii Ru294
+1	1334442	1334442	Cryptococcus gattii VGII 2001/935-1
+1	1296104	1296104	Cryptococcus gattii VGII 99/473
+1	1296107	1296107	Cryptococcus gattii VGII CA1014
+1	1296101	1296101	Cryptococcus gattii VGII CBS 10090
+1	1296106	1296106	Cryptococcus gattii VGII LA55
+1	1296117	1296117	Cryptococcus gattii VGII MMRL2647
+1	294750	294750	Cryptococcus gattii VGII R265
+1	1296110	1296110	Cryptococcus gattii VGII Ram5
+1	1296105	1296105	Cryptococcus gattii VGIV IND107
+1	367775	367775	Cryptococcus gattii WM276
+1	214684	214684	Cryptococcus neoformans var. neoformans JEC21
+1	235443	235443	Cryptococcus neoformans var. grubii H99
+1	283643	283643	Cryptococcus neoformans var. neoformans B-3501A
+1	879819	879819	Cutaneotrichosporon oleaginosum
+1	36022	36022	Cyberlindnera fabianii
+1	4903	4903	Cyberlindnera jadinii
+1	983966	983966	Cyberlindnera jadinii NRRL Y-1542
+1	1314674	1314674	Cylindrobasidium torrendii FP15055 ss-10
+1	1220924	1220924	Cyphellophora europaea CBS 101466
+1	1858805	1858805	Dacryopinax primogenitus
+1	1284197	1284197	Dactylellina haptotyla CBS 200.50
+1	1314783	1314783	Daedalea quercina L-15889
+1	58627	58627	Debaryomyces fabryi
+1	284592	284592	Debaryomyces hansenii CBS767
+1	1214573	1214573	Diaporthe ampelina
+1	158607	158607	Diaporthe helianthi
+1	732165	732165	Dichomitus squalens LYAD-421 SS1
+1	236234	236234	Diplodia corticola
+1	420778	420778	Diplodia seriata
+1	420778	420778	Diplodia seriata
+1	675120	675120	Dothistroma septosporum NZE10
+1	98403	98403	Drechmeria coniospora
+1	1043628	1043628	Drechslerella stenobrocha 248
+1	1003232	1003232	Edhazardia aedis USNM 41457
+1	1447872	1447872	Emergomyces pasteurianus Ep9510
+1	1247875	1247875	Emmonsia crescens UAMH 3008
+1	1246674	1246674	Emmonsia parva UAMH 139
+1	1658172	1658172	Emmonsia sp. CAC-2015a
+1	1355160	1355160	Encephalitozoon cuniculi EcunIII-L
+1	284813	284813	Encephalitozoon cuniculi GB-M1
+1	907965	907965	Encephalitozoon hellem ATCC 50504
+1	876142	876142	Encephalitozoon intestinalis ATCC 50506
+1	1178016	1178016	Encephalitozoon romaleae SJ-2008
+1	1263415	1263415	Endocarpon pusillum Z07020
+1	481877	481877	Enterocytozoon bieneusi H348
+1	646526	646526	Enterocytozoon hepatopenaei
+1	1081671	1081671	Enterospora canceri
+1	931890	931890	Eremothecium cymbalariae DBVPG#7215
+1	1034331	1034331	Eremothecium gossypii FDAG1
+1	45286	45286	Eremothecium sinecaudum
+1	52586	52586	Erysiphe necator
+1	150374	150374	Escovopsis weberi
+1	1287681	1287681	Eutypa lata UCREL1
+1	1314781	1314781	Exidia glandulosa HHB12029
+1	1182545	1182545	Exophiala aquamarina CBS 119918
+1	858893	858893	Exophiala dermatitidis NIH/UT8656
+1	212818	212818	Exophiala mesophila
+1	215243	215243	Exophiala oligosperma
+1	1016849	1016849	Exophiala sideris
+1	91928	91928	Exophiala spinifera
+1	348802	348802	Exophiala xenobiotica
+1	599839	599839	Fibroporia radiculosa
+1	436010	436010	Fibularhizoctonia sp. CBS 109695
+1	1128425	1128425	Fistulina hepatica ATCC 64428
+1	694068	694068	Fomitiporia mediterranea MF3/22
+1	743788	743788	Fomitopsis pinicola FP-58527 SS1
+1	1367422	1367422	Fonsecaea erecta
+1	254056	254056	Fonsecaea monophora
+1	979981	979981	Fonsecaea multimorphosa
+1	1442371	1442371	Fonsecaea multimorphosa CBS 102226
+1	856822	856822	Fonsecaea nubica
+1	1442368	1442368	Fonsecaea pedrosoi CBS 271.37
+1	1318462	1318462	Fusarium culmorum CS7071
+1	5127	5127	Fusarium fujikuroi
+1	5127	5127	Fusarium fujikuroi
+1	5127	5127	Fusarium fujikuroi
+1	5127	5127	Fusarium fujikuroi
+1	5518	5518	Fusarium graminearum
+1	5518	5518	Fusarium graminearum
+1	179993	179993	Fusarium langsethiae
+1	192010	192010	Fusarium mangiferae
+1	426428	426428	Fusarium oxysporum f. sp. lycopersici 4287
+1	660027	660027	Fusarium oxysporum Fo47
+1	909455	909455	Fusarium oxysporum FOSC 3-a
+1	1089457	1089457	Fusarium oxysporum f. sp. conglutinans race 2 54008
+1	1229664	1229664	Fusarium oxysporum f. sp. cubense race 1
+1	1229665	1229665	Fusarium oxysporum f. sp. cubense race 4
+1	1089451	1089451	Fusarium oxysporum f. sp. cubense tropical race 4 54006
+1	1080343	1080343	Fusarium oxysporum f. sp. lycopersici MN25
+1	1089452	1089452	Fusarium oxysporum f. sp. melonis 26406
+1	1080344	1080344	Fusarium oxysporum f. sp. pisi HDV247
+1	1089448	1089448	Fusarium oxysporum f. sp. radicis-lycopersici 26381
+1	1089458	1089458	Fusarium oxysporum f. sp. raphani 54005
+1	1089449	1089449	Fusarium oxysporum f. sp. vasinfectum 25433
+1	36050	36050	Fusarium poae
+1	1227346	1227346	Fusarium proliferatum ET1
+1	948311	948311	Fusarium proliferatum
+1	1028729	1028729	Fusarium pseudograminearum CS3096
+1	660122	660122	[Nectria] haematococca mpVI 77-13-4
+1	334819	334819	Fusarium verticillioides 7600
+1	644352	644352	Gaeumannomyces tritici R3-111a-1
+1	685588	685588	Galerina marginata CBS 339.88
+1	914234	914234	Gelatoporia subvermispora B
+1	1173061	1173061	Galactomyces candidus
+1	1104152	1104152	Glarea lozoyensis 74030
+1	1116229	1116229	Glarea lozoyensis ATCC 20868
+1	670483	670483	Gloeophyllum trabeum ATCC 11539
+1	1344416	1344416	Gonapodya prolifera JEL478
+1	5627	5627	Grifola frondosa
+1	655863	655863	Grosmannia clavigera kw1407
+1	944289	944289	Gymnopus luxurians FD-317 M1
+1	56406	56406	Hanseniaspora guilliermondii
+1	211096	211096	Hanseniaspora opuntiae
+1	56408	56408	Hanseniaspora osmophila
+1	29833	29833	Hanseniaspora uvarum
+1	1246595	1246595	Hanseniaspora uvarum DSM 2768
+1	766949	766949	Hanseniaspora valbyensis NRRL Y-1626
+1	686832	686832	Hebeloma cylindrosporum h7
+1	1081669	1081669	Hepatospora eriocheir
+1	1081669	1081669	Hepatospora eriocheir
+1	747525	747525	Heterobasidion irregulare TC 32-1
+1	1043627	1043627	Hirsutella minnesotensis 3608
+1	447093	447093	Histoplasma capsulatum G186AR
+1	544712	544712	Histoplasma capsulatum H143
+1	544711	544711	Histoplasma capsulatum H88
+1	339724	339724	Histoplasma capsulatum NAm1
+1	994086	994086	Hydnomerulius pinastri MD-312
+1	945553	945553	Hypholoma sublateritium FD-334 SS-4
+1	984485	984485	Hyphopichia burtonii NRRL Y-1933
+1	39966	39966	Hypsizygus marmoreus
+1	1081104	1081104	Cordyceps fumosorosea ARSEF 2679
+1	933084	933084	Jaapia argillacea MUCL 33604
+1	1365824	1365824	Kalmanozyma brasiliensis GHG001
+1	1071382	1071382	Kazachstania africana CBS 2517
+1	1071383	1071383	Kazachstania naganishii CBS 8797
+1	28985	28985	Kluyveromyces lactis
+1	1003335	1003335	Kluyveromyces marxianus DMKU3-1042
+1	4911	4911	Kluyveromyces marxianus
+1	644223	644223	Komagataella phaffii GS115
+1	4922	4922	Komagataella pastoris
+1	460519	460519	Komagataella phaffii
+1	981350	981350	Komagataella phaffii CBS 7435
+1	644223	644223	Komagataella phaffii GS115
+1	1382522	1382522	Kuraishia capsulata CBS 1993
+1	1296100	1296100	Kwoniella bestiolae CBS 10118
+1	1296121	1296121	Kwoniella dejecticola CBS 10117
+1	1296120	1296120	Kwoniella heveanensis BCC8398
+1	1296119	1296119	Kwoniella heveanensis CBS 569
+1	1331196	1331196	Kwoniella mangroviensis CBS 10435
+1	1296122	1296122	Kwoniella mangroviensis CBS 8507
+1	1296123	1296123	Kwoniella mangroviensis CBS 8886
+1	1296096	1296096	Kwoniella pini CBS 10737
+1	1095629	1095629	Laccaria amethystina LaAM-08-1
+1	486041	486041	Laccaria bicolor S238N-H82
+1	1266660	1266660	Lachancea dasiensis CBS 10888
+1	4955	4955	Lachancea fermentati
+1	1245769	1245769	Lachancea lanzarotensis
+1	1266667	1266667	Lachancea meyersii CBS 8951
+1	1230905	1230905	Lachancea mirantina
+1	1266666	1266666	Lachancea nothofagi CBS 11611
+1	433476	433476	Lachancea sp. CBS 6924
+1	559295	559295	Lachancea thermotolerans CBS 6340
+1	1314785	1314785	Laetiporus sulphureus 93-53
+1	5353	5353	Lentinula edodes
+1	985895	985895	Leptosphaeria maculans JN3
+1	1714833	1714833	Leucoagaricus sp. SymC.cos
+1	1263082	1263082	Lichtheimia corymbifera JMRC:FSU:9682
+1	688394	688394	Lichtheimia ramosa
+1	675824	675824	Lipomyces starkeyi NRRL Y-11557
+1	379508	379508	Lodderomyces elongisporus NRRL YB-4239
+1	1126212	1126212	Macrophomina phaseolina MS6
+1	100816	100816	Madurella mycetomatis
+1	242507	242507	Magnaporthe oryzae 70-15
+1	644358	644358	Magnaporthiopsis poae ATCC 64411
+1	77020	77020	Malassezia pachydermatis
+1	1230383	1230383	Malassezia sympodialis ATCC 42132
+1	1230383	1230383	Malassezia sympodialis ATCC 42132
+1	1072389	1072389	Marssonina brunnea f. sp. 'multigermtubi' MB_m1
+1	747676	747676	Melampsora larici-populina 98AG31
+1	655827	655827	Metarhizium acridum CQMa 102
+1	1081103	1081103	Metarhizium album ARSEF 1941
+1	655844	655844	Metarhizium robertsii ARSEF 23
+1	1276135	1276135	Metarhizium anisopliae ARSEF 549
+1	1291519	1291519	Metarhizium anisopliae BRIP 53284
+1	1291518	1291518	Metarhizium anisopliae BRIP 53293
+1	5530	5530	Metarhizium anisopliae
+1	1276141	1276141	Metarhizium brunneum ARSEF 3297
+1	1276136	1276136	Metarhizium guizhouense ARSEF 977
+1	1276143	1276143	Metarhizium majus ARSEF 297
+1	1081105	1081105	Metarhizium rileyi RCEF 4871
+1	568076	568076	Metarhizium robertsii
+1	869754	869754	Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993
+1	294746	294746	Meyerozyma guilliermondii ATCC 6260
+1	683840	683840	Microbotryum lychnidis-dioicae p1A1 Lamole
+1	196109	196109	Microdochium bolleyi
+1	559304	559304	Millerozyma farinosa CBS 7064
+1	1485682	1485682	Mitosporidium daphniae
+1	764103	764103	Mixia osmundae IAM 14324
+1	764103	764103	Mixia osmundae IAM 14324
+1	84753	84753	Moesziomyces antarcticus
+1	1391700	1391700	Moesziomyces aphidis DSM 70725
+1	554373	554373	Moniliophthora perniciosa FA553
+1	221103	221103	Moniliophthora roreri
+1	1381753	1381753	Moniliophthora roreri MCA 2997
+1	1314771	1314771	Mortierella elongata AG-77
+1	1069443	1069443	Mortierella verticillata NRRL 6337
+1	91626	91626	Mucor ambiguus
+1	1220926	1220926	Mucor circinelloides f. circinelloides 1006PhL
+1	747725	747725	Mucor circinelloides f. lusitanicus CBS 277.49
+1	321146	321146	Mycosphaerella eumusae
+1	857566	857566	Nadsonia fulvescens var. elongata DSM 6958
+1	535722	535722	Nannizzia gypsea CBS 118893
+1	1064592	1064592	Naumovozyma castellii CBS 4309
+1	1071378	1071378	Naumovozyma dairenensis CBS 421
+1	1805483	1805483	Nematocida displodere
+1	881290	881290	Nematocida parisii ERTm1
+1	935791	935791	Nematocida parisii ERTm3
+1	944018	944018	Nematocida sp. 1 ERTm2
+1	1138374	1138374	Nematocida sp. 1 ERTm6
+1	1805481	1805481	Nematocida sp. ERTm5
+1	1287680	1287680	Neofusicoccum parvum UCRNP2
+1	1198029	1198029	Neolecta irregularis DAH-3
+1	1314782	1314782	Neolentinus lepideus HHB14362 ss-1
+1	78410	78410	Neonectria ditissima
+1	331117	331117	Aspergillus fischeri NRRL 181
+1	5141	5141	Neurospora crassa
+1	367110	367110	Neurospora crassa OR74A
+1	510951	510951	Neurospora tetrasperma FGSC 2508
+1	510952	510952	Neurospora tetrasperma FGSC 2509
+1	1037528	1037528	Nosema apis BRL 01
+1	578461	578461	Nosema bombycis CQ1
+1	40302	40302	Nosema ceranae
+1	578460	578460	Nosema ceranae BRL01
+1	871575	871575	Ogataea parapolymorpha DL-1
+1	460523	460523	Ogataea polymorpha
+1	913774	913774	Oidiodendron maius Zn
+1	911162	911162	Ophiocordyceps sinensis CO18
+1	268505	268505	Ophiocordyceps unilateralis
+1	1262450	1262450	Ophiostoma piceae UAMH 11346
+1	1354746	1354746	Ordospora colligata OC4
+1	669874	669874	Pachysolen tannophilus NRRL Y-2460
+1	121759	121759	Paracoccidioides brasiliensis
+1	121759	121759	Paracoccidioides brasiliensis
+1	482561	482561	Paracoccidioides brasiliensis Pb03
+1	502780	502780	Paracoccidioides brasiliensis Pb18
+1	502779	502779	Paracoccidioides lutzii Pb01
+1	1460663	1460663	Paraphaeosphaeria sporulosa
+1	35722	35722	Parasitella parasitica
+1	664439	664439	Paxillus involutus ATCC 200175
+1	930991	930991	Paxillus rubicundulus Ve08.2h10
+1	1073090	1073090	Penicilliopsis zonata CBS 506.65
+1	416450	416450	Penicillium antarcticum
+1	1835702	1835702	Penicillium arizonense
+1	104259	104259	Penicillium brasilianum
+1	104259	104259	Penicillium brasilianum
+1	1429867	1429867	Penicillium camemberti FM 013
+1	5076	5076	Penicillium chrysogenum
+1	36646	36646	Penicillium coprophilum
+1	69771	69771	Penicillium decumbens
+1	1170230	1170230	Penicillium digitatum Pd1
+1	1170229	1170229	Penicillium digitatum PHI26
+1	27334	27334	Penicillium expansum
+1	27334	27334	Penicillium expansum
+1	27334	27334	Penicillium expansum
+1	254877	254877	Penicillium flavigenum
+1	48697	48697	Penicillium freii
+1	5078	5078	Penicillium griseofulvum
+1	40296	40296	Penicillium italicum
+1	60175	60175	Penicillium nalgiovense
+1	229535	229535	Penicillium nordicum
+1	933388	933388	Penicillium oxalicum 114-2
+1	60169	60169	Penicillium polonicum
+1	1365484	1365484	Penicillium roqueforti FM164
+1	500485	500485	Penicillium rubens Wisconsin 54-1255
+1	60172	60172	Penicillium solitum
+1	303698	303698	Penicillium steckii
+1	1316194	1316194	Penicillium subrubescens
+1	29845	29845	Penicillium vulpinum
+1	1314672	1314672	Peniophora sp. CONT
+1	1229662	1229662	Pestalotiopsis fici W106-1
+1	1286976	1286976	Phaeoacremonium minimum UCRPA7
+1	158046	158046	Phaeomoniella chlamydospora
+1	321614	321614	Parastagonospora nodorum SN15
+1	650164	650164	Phanerochaete carnosa HHB-10118-sp
+1	149040	149040	Phialocephala scopiformis
+1	576137	576137	Phialocephala subalpina
+1	5601	5601	Phialophora americana
+1	1664694	1664694	Phialophora attae
+1	98765	98765	Phlebia centrifuga
+1	745531	745531	Phlebiopsis gigantea 11061_1 CR5-6
+1	763407	763407	Phycomyces blakesleeanus NRRL 1555(-)
+1	4909	4909	Pichia kudriavzevii
+1	4909	4909	Pichia kudriavzevii
+1	763406	763406	Pichia membranifaciens NRRL Y-2026
+1	4926	4926	Pichia membranifaciens
+1	765440	765440	Piloderma croceum F 1598
+1	765257	765257	Pisolithus microcarpus 441
+1	870435	870435	Pisolithus tinctorius Marx 270
+1	1137138	1137138	Pleurotus ostreatus PC15
+1	944288	944288	Plicaturopsis crispa FD-325 SS-3
+1	1408658	1408658	Pneumocystis carinii B80
+1	1408657	1408657	Pneumocystis jirovecii RU7
+1	1069680	1069680	Pneumocystis murina B123
+1	1380566	1380566	Pochonia chlamydosporia 170
+1	515849	515849	Podospora anserina S mat+
+1	561896	561896	Postia placenta Mad-698-R
+1	383855	383855	Pseudocercospora fijiensis CIRAD86
+1	113226	113226	Pseudocercospora musae
+1	658429	658429	Pseudogymnoascus destructans 20631-21
+1	655981	655981	Pseudogymnoascus destructans
+1	1622148	1622148	Pseudogymnoascus sp. 03VT05
+1	1622149	1622149	Pseudogymnoascus sp. 05NY08
+1	1524831	1524831	Pseudogymnoascus sp. 23342-1-I1
+1	1622150	1622150	Pseudogymnoascus sp. 24MN13
+1	1420912	1420912	Pseudogymnoascus sp. VKM F-103
+1	1437433	1437433	Pseudogymnoascus sp. VKM F-3557
+1	1420901	1420901	Pseudogymnoascus sp. VKM F-3775
+1	1391699	1391699	Pseudogymnoascus sp. VKM F-3808
+1	1420902	1420902	Pseudogymnoascus sp. VKM F-4246
+1	1420906	1420906	Pseudogymnoascus sp. VKM F-4281 (FW-2241)
+1	1420907	1420907	Pseudogymnoascus sp. VKM F-4513 (FW-928)
+1	1420908	1420908	Pseudogymnoascus sp. VKM F-4514 (FW-929)
+1	1420909	1420909	Pseudogymnoascus sp. VKM F-4515 (FW-2607)
+1	1420910	1420910	Pseudogymnoascus sp. VKM F-4516 (FW-969)
+1	1420911	1420911	Pseudogymnoascus sp. VKM F-4517 (FW-2822)
+1	1420913	1420913	Pseudogymnoascus sp. VKM F-4518 (FW-2643)
+1	1420914	1420914	Pseudogymnoascus sp. VKM F-4519 (FW-2642)
+1	1420915	1420915	Pseudogymnoascus sp. VKM F-4520 (FW-2644)
+1	1622147	1622147	Pseudogymnoascus sp. WSF 3629
+1	342668	342668	Pseudogymnoascus verrucosus
+1	146866	146866	Pseudoloma neurophilia
+1	1305764	1305764	Pseudozyma hubeiensis SY62
+1	418459	418459	Puccinia graminis f. sp. tritici CRL 75-36-700-3
+1	1040990	1040990	Puccinia graminis f. sp. tritici 04KEN156/4
+1	27349	27349	Puccinia sorghi
+1	1165861	1165861	Puccinia striiformis f. sp. tritici PST-78
+1	875184	875184	Puccinia striiformis f. sp. tritici PST-130
+1	630390	630390	Puccinia triticina 1-1 BBBD Race 1
+1	741275	741275	Punctularia strigosozonata HHB-11173 SS5
+1	33203	33203	Purpureocillium lilacinum
+1	33203	33203	Purpureocillium lilacinum
+1	765867	765867	Pyrenochaeta sp. DS3sAY3a
+1	861557	861557	Pyrenophora teres f. teres 0-1
+1	426418	426418	Pyrenophora tritici-repentis Pt-1C-BFP
+1	1076935	1076935	Pyronema omphalodes CBS 100304
+1	1507870	1507870	Rachicladosporium antarcticum
+1	1408163	1408163	Rasamsonia emersonii CBS 393.64
+1	1442369	1442369	Rhinocladiella mackenziei CBS 650.93
+1	1423351	1423351	Rhizoctonia solani 123E
+1	983506	983506	Rhizoctonia solani AG-1 IA
+1	1108050	1108050	Rhizoctonia solani AG-1 IB
+1	456999	456999	Rhizoctonia solani
+1	1086054	1086054	Rhizoctonia solani AG-3 Rhs1AP
+1	1287689	1287689	Rhizoctonia solani AG-8 WAC10335
+1	747089	747089	Rhizophagus irregularis DAOM 181602=DAOM 197198
+1	1432141	1432141	Rhizophagus irregularis DAOM 197198w
+1	180088	180088	Rhizopogon vesiculosus
+1	1314800	1314800	Rhizopogon vinicolor AM-OR11-026
+1	246409	246409	Rhizopus delemar RA 99-880
+1	58291	58291	Rhizopus microsporus
+1	86635	86635	Rhizopus microsporus var. microsporus
+1	578459	578459	Rhodotorula graminis WP1
+1	1305733	1305733	Rhodotorula sp. JG-1b
+1	1001064	1001064	Rhodotorula toruloides ATCC 204091
+1	5286	5286	Rhodotorula toruloides
+1	1130832	1130832	Rhodotorula toruloides NP11
+1	914238	914238	Rhynchosporium agropyri
+1	914237	914237	Rhynchosporium commune
+1	38038	38038	Rhynchosporium secalis
+1	988480	988480	Rozella allomycis CSF55
+1	1160507	1160507	Saccharomyces arboricola H-6
+1	764097	764097	Saccharomyces cerevisiae AWRI796
+1	889517	889517	Saccharomyces cerevisiae CEN.PK113-7D
+1	643680	643680	Saccharomyces cerevisiae EC1118
+1	764102	764102	Saccharomyces cerevisiae FostersB
+1	764101	764101	Saccharomyces cerevisiae FostersO
+1	4932	4932	Saccharomyces cerevisiae
+1	4932	4932	Saccharomyces cerevisiae
+1	4932	4932	Saccharomyces cerevisiae
+1	721032	721032	Saccharomyces cerevisiae Kyokai no. 7
+1	764098	764098	Saccharomyces cerevisiae Lalvin QA23
+1	1177187	1177187	Saccharomyces cerevisiae P283
+1	1182968	1182968	Saccharomyces cerevisiae P301
+1	1182966	1182966	Saccharomyces cerevisiae R008
+1	1182967	1182967	Saccharomyces cerevisiae R103
+1	559292	559292	Saccharomyces cerevisiae S288C
+1	285006	285006	Saccharomyces cerevisiae RM11-1a
+1	764099	764099	Saccharomyces cerevisiae Vin13
+1	764100	764100	Saccharomyces cerevisiae VL3
+1	1095631	1095631	Saccharomyces cerevisiae x Saccharomyces kudriavzevii VIN7
+1	1296266	1296266	Saccharomyces cerevisiae YJM1078
+1	1292971	1292971	Saccharomyces cerevisiae YJM1083
+1	1293430	1293430	Saccharomyces cerevisiae YJM1129
+1	1294333	1294333	Saccharomyces cerevisiae YJM1133
+1	1294334	1294334	Saccharomyces cerevisiae YJM1190
+1	1294335	1294335	Saccharomyces cerevisiae YJM1199
+1	1294336	1294336	Saccharomyces cerevisiae YJM1202
+1	1294337	1294337	Saccharomyces cerevisiae YJM1208
+1	1294338	1294338	Saccharomyces cerevisiae YJM1242
+1	1294339	1294339	Saccharomyces cerevisiae YJM1244
+1	1294340	1294340	Saccharomyces cerevisiae YJM1248
+1	1294341	1294341	Saccharomyces cerevisiae YJM1250
+1	1294342	1294342	Saccharomyces cerevisiae YJM1252
+1	1294343	1294343	Saccharomyces cerevisiae YJM1273
+1	1294344	1294344	Saccharomyces cerevisiae YJM1304
+1	1294345	1294345	Saccharomyces cerevisiae YJM1307
+1	1294346	1294346	Saccharomyces cerevisiae YJM1311
+1	1294347	1294347	Saccharomyces cerevisiae YJM1326
+1	1294348	1294348	Saccharomyces cerevisiae YJM1332
+1	1294349	1294349	Saccharomyces cerevisiae YJM1336
+1	1294350	1294350	Saccharomyces cerevisiae YJM1338
+1	1294351	1294351	Saccharomyces cerevisiae YJM1341
+1	1294352	1294352	Saccharomyces cerevisiae YJM1342
+1	1294353	1294353	Saccharomyces cerevisiae YJM1355
+1	1294354	1294354	Saccharomyces cerevisiae YJM1356
+1	1294355	1294355	Saccharomyces cerevisiae YJM1381
+1	1294356	1294356	Saccharomyces cerevisiae YJM1383
+1	1294357	1294357	Saccharomyces cerevisiae YJM1385
+1	1294358	1294358	Saccharomyces cerevisiae YJM1386
+1	1294359	1294359	Saccharomyces cerevisiae YJM1387
+1	1294360	1294360	Saccharomyces cerevisiae YJM1388
+1	1294361	1294361	Saccharomyces cerevisiae YJM1389
+1	1294362	1294362	Saccharomyces cerevisiae YJM1399
+1	1294363	1294363	Saccharomyces cerevisiae YJM1400
+1	1294364	1294364	Saccharomyces cerevisiae YJM1401
+1	1294365	1294365	Saccharomyces cerevisiae YJM1402
+1	1294366	1294366	Saccharomyces cerevisiae YJM1415
+1	1294367	1294367	Saccharomyces cerevisiae YJM1417
+1	1294368	1294368	Saccharomyces cerevisiae YJM1418
+1	1294369	1294369	Saccharomyces cerevisiae YJM1419
+1	1294370	1294370	Saccharomyces cerevisiae YJM1433
+1	1294371	1294371	Saccharomyces cerevisiae YJM1434
+1	1294372	1294372	Saccharomyces cerevisiae YJM1439
+1	1294373	1294373	Saccharomyces cerevisiae YJM1443
+1	1294374	1294374	Saccharomyces cerevisiae YJM1444
+1	1294375	1294375	Saccharomyces cerevisiae YJM1447
+1	1294376	1294376	Saccharomyces cerevisiae YJM1450
+1	1294377	1294377	Saccharomyces cerevisiae YJM1460
+1	1294378	1294378	Saccharomyces cerevisiae YJM1463
+1	1294379	1294379	Saccharomyces cerevisiae YJM1477
+1	1294380	1294380	Saccharomyces cerevisiae YJM1478
+1	1294381	1294381	Saccharomyces cerevisiae YJM1479
+1	1294382	1294382	Saccharomyces cerevisiae YJM1526
+1	1294383	1294383	Saccharomyces cerevisiae YJM1527
+1	1294384	1294384	Saccharomyces cerevisiae YJM1549
+1	1294385	1294385	Saccharomyces cerevisiae YJM1573
+1	1294386	1294386	Saccharomyces cerevisiae YJM1574
+1	1294387	1294387	Saccharomyces cerevisiae YJM1592
+1	1294388	1294388	Saccharomyces cerevisiae YJM1615
+1	1294303	1294303	Saccharomyces cerevisiae YJM189
+1	1294304	1294304	Saccharomyces cerevisiae YJM193
+1	1294305	1294305	Saccharomyces cerevisiae YJM195
+1	1294306	1294306	Saccharomyces cerevisiae YJM244
+1	1294307	1294307	Saccharomyces cerevisiae YJM248
+1	1294308	1294308	Saccharomyces cerevisiae YJM270
+1	1294309	1294309	Saccharomyces cerevisiae YJM271
+1	947042	947042	Saccharomyces cerevisiae YJM320
+1	468558	468558	Saccharomyces cerevisiae YJM326
+1	947044	947044	Saccharomyces cerevisiae YJM428
+1	1294310	1294310	Saccharomyces cerevisiae YJM450
+1	502869	502869	Saccharomyces cerevisiae YJM451
+1	1294311	1294311	Saccharomyces cerevisiae YJM453
+1	1294312	1294312	Saccharomyces cerevisiae YJM456
+1	1294313	1294313	Saccharomyces cerevisiae YJM470
+1	1294314	1294314	Saccharomyces cerevisiae YJM541
+1	1294315	1294315	Saccharomyces cerevisiae YJM554
+1	1294316	1294316	Saccharomyces cerevisiae YJM555
+1	1294317	1294317	Saccharomyces cerevisiae YJM627
+1	1294318	1294318	Saccharomyces cerevisiae YJM681
+1	1294319	1294319	Saccharomyces cerevisiae YJM682
+1	1294320	1294320	Saccharomyces cerevisiae YJM683
+1	1294321	1294321	Saccharomyces cerevisiae YJM689
+1	1294322	1294322	Saccharomyces cerevisiae YJM693
+1	307796	307796	Saccharomyces cerevisiae YJM789
+1	1294323	1294323	Saccharomyces cerevisiae YJM969
+1	1294324	1294324	Saccharomyces cerevisiae YJM972
+1	1294325	1294325	Saccharomyces cerevisiae YJM975
+1	1294326	1294326	Saccharomyces cerevisiae YJM978
+1	1294327	1294327	Saccharomyces cerevisiae YJM981
+1	1294328	1294328	Saccharomyces cerevisiae YJM984
+1	1294329	1294329	Saccharomyces cerevisiae YJM987
+1	1294330	1294330	Saccharomyces cerevisiae YJM990
+1	1294331	1294331	Saccharomyces cerevisiae YJM993
+1	1294332	1294332	Saccharomyces cerevisiae YJM996
+1	1080349	1080349	Saccharomyces eubayanus
+1	226230	226230	Saccharomyces kudriavzevii IFO 1802
+1	252598	252598	Saccharomyces sp. 'boulardii'
+1	252598	252598	Saccharomyces sp. 'boulardii'
+1	566037	566037	Saccharomycetaceae sp. 'Ashbya aceri'
+1	698492	698492	Saitoella complicata NRRL Y-17804
+1	698492	698492	Saitoella complicata NRRL Y-17804
+1	563466	563466	Scedosporium apiospermum
+1	322104	322104	Scheffersomyces stipitis CBS 6054
+1	578458	578458	Schizophyllum commune H4-8
+1	27342	27342	Schizopora paradoxa
+1	653667	653667	Schizosaccharomyces cryophilus OY26
+1	402676	402676	Schizosaccharomyces japonicus yFS275
+1	483514	483514	Schizosaccharomyces octosporus yFS286
+1	284812	284812	Schizosaccharomyces pombe 972h-
+1	1036808	1036808	Scleroderma citrinum Foug A
+1	1432307	1432307	Sclerotinia borealis F-4128
+1	665079	665079	Sclerotinia sclerotiorum 1980 UF-70
+1	665079	665079	Sclerotinia sclerotiorum 1980 UF-70
+1	1109443	1109443	Serendipita indica DSM 11827
+1	933852	933852	Serendipita vermifera MAFF 305830
+1	936435	936435	Serpula lacrymans var. lacrymans S7.3
+1	578457	578457	Serpula lacrymans var. lacrymans S7.9
+1	671987	671987	Exserohilum turcica Et28A
+1	1314777	1314777	Sistotremastrum niveocremeum HHB9708
+1	1314776	1314776	Sistotremastrum suecicum HHB10207 ss-3
+1	771870	771870	Sordaria macrospora k-hell
+1	619300	619300	Spathaspora passalidarum NRRL Y-27907
+1	990650	990650	Sphaerobolus stellatus SS14
+1	692275	692275	Sphaerulina musiva SO2202
+1	645134	645134	Spizellomyces punctatus DAOM BR117
+1	5005	5005	Sporidiobolus salmonicolor
+1	999809	999809	Sporisorium reilianum SRZ2
+1	49012	49012	Sporisorium scitamineum
+1	1398154	1398154	Sporothrix brasiliensis 5110
+1	1081102	1081102	Sporothrix insectorum RCEF 264
+1	1397361	1397361	Sporothrix schenckii 1099-18
+1	1391915	1391915	Sporothrix schenckii ATCC 58251
+1	1358809	1358809	Spraguea lophii 42_110
+1	1283842	1283842	Stachybotrys chartarum IBT 40288
+1	1280524	1280524	Stachybotrys chartarum IBT 40293
+1	1280523	1280523	Stachybotrys chartarum IBT 7711
+1	1283841	1283841	Stachybotrys chlorohalonata IBT 40285
+1	765868	765868	Stagonospora sp. SRC1lsM3a
+1	183478	183478	Stemphylium lycopersici
+1	721885	721885	Stereum hirsutum FP-91666 SS1
+1	796027	796027	Sugiyamaella lignohabitans
+1	930992	930992	Suillus luteus UH-Slu-Lm8-n1
+1	1472165	1472165	Talaromyces cellulolyticus
+1	28573	28573	Talaromyces islandicus
+1	441960	441960	Talaromyces marneffei ATCC 18224
+1	1077442	1077442	Talaromyces marneffei PM1
+1	441959	441959	Talaromyces stipitatus ATCC 10500
+1	1306850	1306850	Termitomyces sp. J132
+1	1071380	1071380	Tetrapisispora blattae CBS 6284
+1	1071381	1071381	Tetrapisispora phaffii CBS 4417
+1	573729	573729	Thermothelomyces thermophila ATCC 42464
+1	578455	578455	Thielavia terrestris NRRL 8126
+1	72032	72032	Thielaviopsis punctulata
+1	13290	13290	Tilletia caries
+1	13291	13291	Tilletia controversa
+1	43049	43049	Tilletia indica
+1	1037660	1037660	Tilletiaria anomala UBC 951
+1	117179	117179	Tilletia walkeri
+1	1163406	1163406	Tolypocladium ophioglossoides CBS 100239
+1	1531966	1531966	Torrubiella hemipterigena
+1	767744	767744	Tortispora caseinolytica NRRL Y-17796
+1	4950	4950	Torulaspora delbrueckii
+1	72359	72359	Trachipleistophora hominis
+1	5643	5643	Trametes cinnabarina
+1	154538	154538	Trametes pubescens
+1	717944	717944	Trametes versicolor FP-101664 SS1
+1	578456	578456	Tremella mesenterica DSM 1558
+1	452589	452589	Trichoderma atroviride IMI 206040
+1	398673	398673	Trichoderma gamsii
+1	1491466	1491466	Trichoderma guizhouense
+1	5544	5544	Trichoderma harzianum
+1	431241	431241	Trichoderma reesei QM6a
+1	1344414	1344414	Trichoderma reesei RUT C-30
+1	413071	413071	Trichoderma virens Gv29-8
+1	663331	663331	Trichophyton benhamiae CBS 112371
+1	559882	559882	Trichophyton equinum CBS 127.97
+1	1215336	1215336	Trichophyton interdigitale H6
+1	1215338	1215338	Trichophyton interdigitale MR816
+1	1215328	1215328	Trichophyton rubrum CBS 100081
+1	559305	559305	Trichophyton rubrum CBS 118892
+1	1215334	1215334	Trichophyton rubrum CBS 202.88
+1	1215330	1215330	Trichophyton rubrum CBS 288.86
+1	1215329	1215329	Trichophyton rubrum CBS 289.86
+1	1215332	1215332	Trichophyton rubrum CBS 735.88
+1	5551	5551	Trichophyton rubrum
+1	1215335	1215335	Trichophyton rubrum D6
+1	1215339	1215339	Trichophyton rubrum MR1448
+1	1215341	1215341	Trichophyton rubrum MR1459
+1	1215337	1215337	Trichophyton rubrum MR850
+1	1215331	1215331	Trichophyton soudanense CBS 452.61
+1	647933	647933	Trichophyton tonsurans CBS 112818
+1	663202	663202	Trichophyton verrucosum HKI 0517
+1	34388	34388	Trichophyton violaceum
+1	1186058	1186058	Trichosporon asahii var. asahii CBS 2479
+1	1220162	1220162	Trichosporon asahii var. asahii CBS 8904
+1	1295528	1295528	Tsuchiyaea wingfieldii CBS 7118
+1	656061	656061	Tuber melanosporum Mel28
+1	1051891	1051891	Tulasnella calospora MUT 4182
+1	136370	136370	Umbilicaria pustulata
+1	336963	336963	Uncinocarpus reesii 1704
+1	1159556	1159556	Ustilaginoidea virens
+1	1159556	1159556	Ustilaginoidea virens
+1	307758	307758	Ustilago bromivora
+1	120017	120017	Ustilago hordei
+1	237631	237631	Ustilago maydis 521
+1	105487	105487	Valsa mali
+1	694573	694573	Valsa mali var. pyri
+1	436907	436907	Vanderwaltozyma polyspora DSM 70294
+1	948595	948595	Vavraia culicis subsp. floridensis
+1	253628	253628	Verruconis gallopava
+1	526221	526221	Verticillium alfalfae VaMs.102
+1	498257	498257	Verticillium dahliae VdLs.17
+1	1202531	1202531	Verticillium dahliae JR2
+1	100787	100787	Verticillium longisporum
+1	100787	100787	Verticillium longisporum
+1	993615	993615	Vittaforma corneae ATCC 50505
+1	1299270	1299270	Wallemia ichthyophaga EXF-994
+1	671144	671144	Wallemia mellicola CBS 633.66
+1	683960	683960	Wickerhamomyces anomalus NRRL Y-366-8
+1	1041607	1041607	Wickerhamomyces ciferrii
+1	5421	5421	Xanthophyllomyces dendrorhous
+1	1328760	1328760	Xylona heveae TC161
+1	284591	284591	Yarrowia lipolytica CLIB122
+1	4952	4952	Yarrowia lipolytica
+1	1355161	1355161	Zygosaccharomyces bailii ISA1307
+1	1365886	1365886	Zygosaccharomyces parabailii
+1	4956	4956	Zygosaccharomyces rouxii
+1	4956	4956	Zygosaccharomyces rouxii
+1	1047168	1047168	Zymoseptoria brevis
+1	336722	336722	Zymoseptoria tritici IPO323

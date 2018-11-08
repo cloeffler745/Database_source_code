@@ -1,0 +1,1061 @@
+#code	taxid	primary taxid	taxname
+1	1450171	1450171	Aaosphaeria arxii
+1	137743	137743	Abortiporus biennis
+1	137743	137743	Abortiporus biennis
+1	90267	90267	Chlamydoabsidia padenii
+1	90262	90262	Absidia repens
+1	215250	215250	Acaromyces ingoldii
+1	886606	886606	Acephala macrosclerotiorum
+1	79814	79814	Achaetomium strumarium
+1	245562	245562	Acidomyces richmondensis
+1	245562	245562	Acidomyces richmondensis
+1	1442179	1442179	Acidothrix acidophila
+1	591952	591952	Acremonium alcalophilum JCM 7366
+1	857340	857340	Acremonium chrysogenum ATCC 11550
+1	5046	5046	Sarocladium strictum
+1	44565	44565	Sterigmatomyces hyphaenes
+1	936046	936046	Agaricus bisporus var. bisporus H97
+1	597362	597362	Agaricus bisporus var. burnettii JB137-S8
+1	84607	84607	Agrocybe pediades
+1	112102	112102	Aliquandostipite khaoyaiensis
+1	578462	578462	Allomyces macrogynus ATCC 38327
+1	5599	5599	Alternaria alternata
+1	5599	5599	Alternaria alternata
+1	29001	29001	Alternaria brassicicola
+1	1187941	1187941	Alternaria rosae
+1	946122	946122	Amanita muscaria Koide BX008
+1	703135	703135	Amanita thiersii Skay4041
+1	1392246	1392246	Amniculicola lignicola CBS 123094
+1	5101	5101	Amorphotheca resinae
+1	50730	50730	Ampelomyces quisqualis
+1	202700	202700	Amylocystis lapponica
+1	55340	55340	Amylostereum chailletii
+1	1754192	1754192	Anaeromyces robustus
+1	693288	693288	Anomoloma albolutescens
+1	264122	264122	Anomoporia bombycina
+1	1405086	1405086	Anthostoma avocetta NRRL 3190
+1	1284279	1284279	Antonospora locustae HM-2013
+1	139415	139415	Antrodia serialis
+1	1333626	1333626	Adustoporia sinuosa
+1	314023	314023	Apiosordaria backusii
+1	335852	335852	Arthrinium arundinis
+1	462254	462254	Aplosporella prunicola
+1	516989	516989	Apodospora peruviana
+1	1211726	1211726	Elmerina caryae
+1	47426	47426	Armillaria cepistipes
+1	47427	47427	Armillaria gallica
+1	1314977	1314977	Armillaria mellea DSM 3731
+1	64368	64368	Armillaria nabsnona
+1	47428	47428	Armillaria ostoyae
+1	1076256	1076256	Armillaria solidipes
+1	53486	53486	Saccharomycopsis fermentans
+1	756982	756982	Arthrobotrys oligospora ATCC 24927
+1	663331	663331	Trichophyton benhamiae CBS 112371
+1	526244	526244	Trametes elegans
+1	526244	526244	Trametes elegans
+1	5191	5191	Ascobolus immersus
+1	5454	5454	Ascochyta rabiei
+1	1016881	1016881	Ascocoryne sarcoides NRRL 50072
+1	341454	341454	Ascodesmis nigricans
+1	1344418	1344418	Ascoidea rubescens DSM 1968
+1	286159	286159	Aspergillus nidulans var. acristatus
+1	487661	487661	Aspergillus aculeatinus
+1	690307	690307	Aspergillus aculeatus ATCC 16872
+1	176161	176161	Aspergillus amylovorus
+1	41753	41753	Aspergillus bisporus
+1	109264	109264	Aspergillus bombycis
+1	767769	767769	Aspergillus brasiliensis CBS 101740
+1	176172	176172	Aspergillus brevijanus
+1	1191711	1191711	Aspergillus brunneoviolaceus
+1	454130	454130	Aspergillus calidoustus
+1	1392248	1392248	Aspergillus campestris IBT 28561
+1	41067	41067	Aspergillus candidus
+1	602072	602072	Aspergillus carbonarius ITEM 5010
+1	182096	182096	Aspergillus chevalieri
+1	344612	344612	Aspergillus clavatus NRRL 1
+1	319631	319631	Aspergillus costaricaensis
+1	573508	573508	Aspergillus cristatus
+1	1810909	1810909	Aspergillus desertorum
+1	41066	41066	Aspergillus ellipticus
+1	1340029	1340029	Aspergillus eucalypticola
+1	1191702	1191702	Aspergillus fijiensis
+1	447248	447248	Aspergillus filifer
+1	332952	332952	Aspergillus flavus NRRL3357
+1	451804	451804	Aspergillus fumigatus A1163
+1	330879	330879	Aspergillus fumigatus Af293
+1	176168	176168	Aspergillus funiculosus
+1	1160497	1160497	Aspergillus glaucus CBS 516.65
+1	51019	51019	Aspergillus heteromorphus
+1	319626	319626	Aspergillus homomorphus
+1	301854	301854	Aspergillus ibericus
+1	138288	138288	Aspergillus terricola var. indicus
+1	1232676	1232676	Aspergillus indologenus
+1	1131488	1131488	Aspergillus insolitus
+1	34381	34381	Aspergillus japonicus
+1	1033177	1033177	Aspergillus kawachii IFO 4308
+1	319628	319628	Aspergillus lacticoffeatus
+1	1137211	1137211	Aspergillus luchuensis CBS 106.47
+1	41759	41759	Aspergillus multicolor
+1	1883083	1883083	Aspergillus neoauricomus
+1	2184044	2184044	Aspergillus sp. JGI-2018a
+1	1196635	1196635	Aspergillus neoniger
+1	162425	162425	Aspergillus nidulans
+1	380704	380704	Aspergillus niger ATCC 1015
+1	425011	425011	Aspergillus niger CBS 513.88
+1	1451139	1451139	Aspergillus niger NRRL3
+1	1353008	1353008	Aspergillus niger ATCC 13496
+1	1509407	1509407	Aspergillus nomius NRRL 13137
+1	1392255	1392255	Aspergillus novofumigatus IBT 16806
+1	1392256	1392256	Aspergillus ochraceoroseus IBT 24754
+1	138278	138278	Aspergillus ochraceoroseus
+1	1250372	1250372	Aspergillus olivicola
+1	510516	510516	Aspergillus oryzae RIB40
+1	41750	41750	Aspergillus parvulus
+1	41959	41959	Aspergillus penicillioides
+1	1353007	1353007	Aspergillus phoenicis ATCC 13157
+1	319630	319630	Aspergillus piperis
+1	308745	308745	Aspergillus rambellii
+1	41761	41761	Aspergillus recurvatus
+1	5064	5064	Aspergillus restrictus
+1	138281	138281	Aspergillus robustus
+1	1250373	1250373	Aspergillus roseoglobulosus
+1	979771	979771	Aspergillus saccharolyticus
+1	487660	487660	Aspergillus sclerotiicarbonarius
+1	319627	319627	Aspergillus sclerotioniger
+1	138282	138282	Aspergillus sclerotiorum
+1	1810926	1810926	Aspergillus stella-maris
+1	1883081	1883081	Aspergillus stercoraria
+1	1392250	1392250	Aspergillus steynii IBT 23096
+1	1036612	1036612	Aspergillus sydowii CBS 593.65
+1	482145	482145	Aspergillus taichungensis
+1	341663	341663	Aspergillus terreus NIH2624
+1	478866	478866	Aspergillus tritici
+1	767770	767770	Aspergillus tubingensis CBS 134.48
+1	91492	91492	Aspergillus udagawae
+1	1810928	1810928	Aspergillus undulatus
+1	40381	40381	Aspergillus unguis
+1	446911	446911	Aspergillus uvarum
+1	288669	288669	Aspergillus vadensis
+1	1810929	1810929	Aspergillus venezuelensis
+1	1036611	1036611	Aspergillus versicolor CBS 583.65
+1	657443	657443	Aspergillus violaceofuscus
+1	1341132	1341132	Aspergillus welwitschiae
+1	1073089	1073089	Aspergillus wentii DTO 134E9
+1	1073090	1073090	Penicilliopsis zonata CBS 506.65
+1	1938712	1938712	Atractiella rhizophila
+1	1176130	1176130	Aulographum hederae
+1	1043003	1043003	Aureobasidium melanogenum CBS 110374
+1	1043004	1043004	Aureobasidium namibiae CBS 147.97
+1	5580	5580	Aureobasidium pullulans
+1	1043005	1043005	Aureobasidium subglaciale EXF-2481
+1	717982	717982	Auricularia subglabra TFB-10046 SS5
+1	97359	97359	Auriculariopsis ampla
+1	40419	40419	Auriscalpium vulgare
+1	984486	984486	Babjeviella inositovora NRRL Y-12698
+1	64653	64653	Backusella circina
+1	1230402	1230402	Basidioascus undulatus
+1	423460	423460	Basidiobolus meristosporus
+1	684364	684364	Batrachochytrium dendrobatidis JAM81
+1	717646	717646	Baudoinia panamericana UAMH 10762
+1	655819	655819	Beauveria bassiana ARSEF 2860
+1	147497	147497	Bimuria novae-zelandiae
+1	97378	97378	Biscogniauxia nummularia
+1	1954211	1954211	Bisporella sp. PMI_857
+1	748444	748444	Bjerkandera adusta HHB-12826-SP SB-22
+1	4850	4850	Blakeslea trispora
+1	1401090	1401090	Blastobotrys adeninivorans LR3
+1	64508	64508	Blastocladiella britannica
+1	559298	559298	Blastomyces gilchristii SLH14081
+1	546991	546991	Blumeria graminis f. sp. hordei DH14
+1	62688	62688	Blumeria graminis f. sp. hordei
+1	1268274	1268274	Blumeria graminis f. sp. tritici 96224
+1	388810	388810	Blyttiomyces helicus
+1	749465	749465	Boeremia exigua
+1	34439	34439	Bolbitius vitellinus
+1	1328754	1328754	Boletus edulis BED1
+1	252184	252184	Bombardia bombarda
+1	930990	930990	Botryobasidium botryosum FD-172 SS1
+1	55169	55169	Botryosphaeria dothidea
+1	280465	280465	Botryozyma mucatilis
+1	40559	40559	Botrytis cinerea
+1	73172	73172	Bulgaria inquinans
+1	1356009	1356009	Byssochlamys spectabilis No. 5
+1	147558	147558	Byssothecium circinans
+1	1485229	1485229	Cadophora sp. DSE1049
+1	1907482	1907482	Caecomyces sp. A
+1	380014	380014	Caliciopsis orientalis
+1	1353952	1353952	Calocera cornea HHB12733
+1	1330018	1330018	Calocera viscosa TUFC12733
+1	47187	47187	Caloscypha fulgens
+1	312312	312312	Calosphaeria pulchella
+1	237561	237561	Candida albicans SC5314
+1	983967	983967	[Candida] arabinofermentans NRRL YB-2248
+1	984487	984487	Suhomyces tanzawaensis NRRL Y-17324
+1	590646	590646	Yamadazyma tenuis ATCC 10573
+1	36065	36065	Cantharellus
+1	1182541	1182541	Capronia coronata CBS 617.96
+1	1182542	1182542	Capronia epimyces CBS 606.96
+1	5601	5601	Phialophora americana
+1	109876	109876	Catenaria anguillulae
+1	1555241	1555241	Caulochytrium protostelioides
+1	1555241	1555241	Caulochytrium protostelioides
+1	794803	794803	Cenococcum geophilum 1.58
+1	43958	43958	Cephaloascus albidus
+1	27311	27311	Cephaloascus fragrans
+1	1522189	1522189	Ceraceosorus guamensis
+1	305860	305860	Ceratobasidium sp. AG-I
+1	314043	314043	Cercophora caudata
+1	92897	92897	Cercophora newfieldiana
+1	314031	314031	Cercophora scortea
+1	717836	717836	Cercospora zeae-maydis SCOH1-5
+1	1175230	1175230	Cerinomyces ceraceus
+1	914234	914234	Gelatoporia subvermispora B
+1	1142151	1142151	Cerrena unicolor 303
+1	1854472	1854472	Chaetomium fimeti
+1	306901	306901	Chaetomium globosum CBS 148.51
+1	139949	139949	Chaetosphaeria innumera
+1	1379296	1379296	Chalara longipes BDJ
+1	54742	54742	Chionosphaera apobasidialis
+1	180810	180810	Chionosphaera cuniculicola
+1	1336337	1336337	Choiromyces venosus 120613-1
+1	64509	64509	Chytridium lagenaria
+1	1882861	1882861	Chytriomyces sp. MP71
+1	101103	101103	Circinella umbellata
+1	1437435	1437435	Cladochytrium polystomum
+1	27339	27339	Cladonia grayi
+1	1442370	1442370	Cladophialophora bantiana CBS 173.52
+1	1279043	1279043	Cladophialophora carrionii CBS 160.54
+1	569365	569365	Cladophialophora immunda
+1	1182543	1182543	Cladophialophora psammophila CBS 110553
+1	1182544	1182544	Cladophialophora yegresii CBS 114405
+1	585595	585595	Cladorrhinum bulbillosum
+1	5499	5499	Passalora fulva
+1	92950	92950	Cladosporium sphaerospermum
+1	706981	706981	Clathrospora elynae
+1	48021	48021	Artomyces pyxidatus
+1	306902	306902	Clavispora lusitaniae ATCC 42720
+1	1486700	1486700	Clavulina sp. PMI_390
+1	239101	239101	Climacocystis borealis
+1	378275	378275	Infundibulicybe gibba
+1	1231657	1231657	Clohesyomyces aquaticus
+1	29856	29856	Clonostachys rosea
+1	246410	246410	Coccidioides immitis RS
+1	54530	54530	Coccodinium bartschii
+1	380015	380015	Coccomyces strobi
+1	930089	930089	Bipolaris zeicola 26-R-13
+1	5016	5016	Bipolaris maydis
+1	701091	701091	Bipolaris maydis C5
+1	977863	977863	Curvularia lunata m118
+1	930090	930090	Bipolaris oryzae ATCC 44560
+1	665912	665912	Bipolaris sorokiniana ND90Pr
+1	930091	930091	Bipolaris victoriae FI3
+1	4864	4864	Coemansia mojavensis
+1	763665	763665	Coemansia reversa NRRL 1564
+1	417178	417178	Coemansia spiralis
+1	90255	90255	Cokeromyces recurvatus
+1	27357	27357	Colletotrichum acutatum
+1	5460	5460	Colletotrichum caudatum
+1	343994	343994	Colletotrichum cereale
+1	1173702	1173702	Colletotrichum eremochloae
+1	129314	129314	Colletotrichum falcatum
+1	1445577	1445577	Colletotrichum fioriniae PJ7
+1	1209918	1209918	Colletotrichum godetiae
+1	645133	645133	Colletotrichum graminicola M1.001
+1	759273	759273	Colletotrichum higginsianum IMI 349063
+1	145971	145971	Colletotrichum lupini
+1	681940	681940	Colletotrichum navitas
+1	1460502	1460502	Colletotrichum nymphaeae SA-01
+1	1209926	1209926	Colletotrichum orchidophilum
+1	359342	359342	Colletotrichum phormii
+1	1209931	1209931	Colletotrichum salicis
+1	703756	703756	Colletotrichum simmondsii
+1	1500509	1500509	Colletotrichum somersetense
+1	1173701	1173701	Colletotrichum sublineola
+1	708197	708197	Colletotrichum tofieldiae
+1	1216348	1216348	Colletotrichum zoysiae
+1	796925	796925	Conidiobolus coronatus NRRL 28638
+1	1314799	1314799	Conidiobolus thromboides FSU 785
+1	172190	172190	Coniella
+1	177197	177197	Coniochaeta ligniaria
+1	177197	177197	Coniochaeta ligniaria
+1	1571157	1571157	Coniochaeta sp. 2T2.1
+1	1450552	1450552	Coniochaeta sp. PMI_546
+1	85977	85977	Coniophora olivacea
+1	741705	741705	Coniophora puteana RWD-64-598 SS2
+1	1168221	1168221	Coniosporium apollinis CBS 100218
+1	980116	980116	Coprinellus angulatus
+1	71717	71717	Coprinellus micaceus
+1	575509	575509	Coprinellus pellucidus
+1	5346	5346	Coprinopsis cinerea
+1	1132390	1132390	Coprinopsis cinerea AmutBmut pab1-1
+1	230819	230819	Coprinopsis marcescibilis
+1	71723	71723	Coprinopsis sclerotiger
+1	983644	983644	Cordyceps militaris CM01
+1	45810	45810	Corollospora maritima
+1	1149754	1149754	Cortinarius glaucopus AT 2004 276
+1	59586	59586	Corynespora cassiicola
+1	1954473	1954473	Crassisporium funariophilum
+1	179855	179855	Crepidotus variabilis
+1	708437	708437	Cronartium quercuum f. sp. fusiforme G11
+1	68775	68775	Crucibulum laeve
+1	660469	660469	Cryphonectria parasitica EP155
+1	57679	57679	Cutaneotrichosporon curvatus
+1	235443	235443	Cryptococcus neoformans var. grubii H99
+1	214684	214684	Cryptococcus neoformans var. neoformans JEC21
+1	104414	104414	Solicoccozyma terricola
+1	89929	89929	Naganishia vishniacii
+1	104416	104416	Filobasidium wieringae
+1	940279	940279	Cryptodiaporthe populea
+1	1907526	1907526	Cryptodiaporthe sp. AZ0812
+1	45142	45142	Cucurbitaria berberidis
+1	76405	76405	Cunninghamella echinulata
+1	68777	68777	Cyathus striatus
+1	983966	983966	Cyberlindnera jadinii NRRL Y-1542
+1	394432	394432	Cylindrobasidium torrendii
+1	1220924	1220924	Cyphellophora europaea CBS 101466
+1	467946	467946	Cystostereum murrayi
+1	1883072	1883072	Cytidiella melzeri
+1	252740	252740	Valsa sordida
+1	1858805	1858805	Dacryopinax primogenitus
+1	1079267	1079267	Dactylonectria estremocensis
+1	1314783	1314783	Daedalea quercina L-15889
+1	1001832	1001832	Daldinia sp. EC12
+1	284592	284592	Debaryomyces hansenii CBS767
+1	184978	184978	Decorospora gaudefroyi
+1	747657	747657	Brettanomyces bruxellensis CBS 2499
+1	1504671	1504671	Delitschia confertaspora
+1	147560	147560	Delphinella strobiligena
+1	1314803	1314803	Dendrothele bispora
+1	256645	256645	Dendryphion nanum
+1	1883078	1883078	Dentipellis sp. KUC8613
+1	1214573	1214573	Diaporthe ampelina
+1	114155	114155	Dichomitus squalens
+1	114155	114155	Dichomitus squalens
+1	732165	732165	Dichomitus squalens LYAD-421 SS1
+1	114155	114155	Dichomitus squalens
+1	101130	101130	Dichotomocladium elegans
+1	1150837	1150837	Didymella exigua CBS 183.55
+1	259522	259522	Didymella maydis
+1	372059	372059	Didymocrea sadasivanii
+1	215637	215637	Dimargaris cristalligena
+1	603311	603311	Dioszegia cryoxerica
+1	420778	420778	Diplodia seriata
+1	1314786	1314786	Dissoconium aciculare CBS 342.82
+1	1392245	1392245	Dothidotthia symphoricarpi CBS 119687
+1	675120	675120	Dothistroma septosporum NZE10
+1	239200	239200	Earliella scabrosa
+1	302913	302913	Elsinoe ampelina
+1	284813	284813	Encephalitozoon cuniculi GB-M1
+1	907965	907965	Encephalitozoon hellem ATCC 50504
+1	876142	876142	Encephalitozoon intestinalis ATCC 50506
+1	1178016	1178016	Encephalitozoon romaleae SJ-2008
+1	1263415	1263415	Endocarpon pusillum Z07020
+1	481877	481877	Enterocytozoon bieneusi H348
+1	97380	97380	Entoleuca mammata
+1	281842	281842	Entophlyctis helioformis
+1	1392243	1392243	Eremomyces bilateralis CBS 781.70
+1	284811	284811	Eremothecium gossypii ATCC 10895
+1	52586	52586	Erysiphe necator
+1	1397323	1397323	Erythrobasidium hasegawianum ATCC 9536
+1	1388766	1388766	Aspergillus ruber CBS 135680
+1	1287681	1287681	Eutypa lata UCREL1
+1	5219	5219	Exidia glandulosa
+1	1493668	1493668	Exobasidium maculosum
+1	1314671	1314671	Exobasidium vaccinii MPITM
+1	91920	91920	Exophiala alcalophila
+1	91920	91920	Exophiala alcalophila
+1	1182545	1182545	Exophiala aquamarina CBS 119918
+1	858893	858893	Exophiala dermatitidis NIH/UT8656
+1	212818	212818	Exophiala mesophila
+1	215243	215243	Exophiala oligosperma
+1	1016849	1016849	Exophiala sideris
+1	91928	91928	Exophiala spinifera
+1	348802	348802	Exophiala xenobiotica
+1	5610	5610	Fellomyces penicillatus
+1	914049	914049	Fenestella fenestrata
+1	1329386	1329386	Fennellomyces sp. T-0311
+1	1078123	1078123	Fibroporia radiculosa TFFH 294
+1	57688	57688	Fibulobasidium inconspicuum
+1	436010	436010	Fibularhizoctonia sp. CBS 109695
+1	1128425	1128425	Fistulina hepatica ATCC 64428
+1	40442	40442	Fomes fomentarius
+1	694068	694068	Fomitiporia mediterranea MF3/22
+1	40450	40450	Piptoporus betulinus
+1	40483	40483	Fomitopsis pinicola
+1	34475	34475	Fomitopsis rosea
+1	254056	254056	Fonsecaea monophora
+1	1442371	1442371	Fonsecaea multimorphosa CBS 102226
+1	856822	856822	Fonsecaea nubica
+1	1442368	1442368	Fonsecaea pedrosoi CBS 271.37
+1	249398	249398	Fusarium commune
+1	61235	61235	Fusarium equiseti
+1	1279085	1279085	Fusarium fujikuroi IMI 58289
+1	5518	5518	Fusarium graminearum
+1	5507	5507	Fusarium oxysporum
+1	426428	426428	Fusarium oxysporum f. sp. lycopersici 4287
+1	1028729	1028729	Fusarium pseudograminearum CS3096
+1	48865	48865	Fusarium redolens
+1	169388	169388	Fusarium solani
+1	334819	334819	Fusarium verticillioides 7600
+1	109897	109897	Gaertneriomyces semiglobifer
+1	644352	644352	Gaeumannomyces tritici R3-111a-1
+1	685588	685588	Galerina marginata CBS 339.88
+1	767862	767862	Ganoderma sp. 10597 SS1
+1	112417	112417	Gautieria morchelliformis
+1	94610	94610	Neurospora tetraspora
+1	101096	101096	Gilbertella persicaria
+1	1116229	1116229	Glarea lozoyensis ATCC 20868
+1	382532	382532	Globomyces pollinis-pini
+1	205761	205761	Gloeopeniophorella convolvens
+1	670483	670483	Gloeophyllum trabeum ATCC 11539
+1	710243	710243	Colletotrichum fioriniae
+1	474922	474922	Colletotrichum gloeosporioides
+1	574774	574774	Glonium stellatum
+1	62708	62708	Golovinomyces cichoracearum
+1	1123529	1123529	Gonapodya prolifera
+1	101105	101105	Gongronella butleri
+1	127520	127520	Gremmeniella abietina
+1	655863	655863	Grosmannia clavigera kw1407
+1	856835	856835	Guyanagaster necrorhizus
+1	1149896	1149896	Gymnascella aurantiaca NRRL 5967
+1	37245	37245	Gymnascella citrina
+1	1314804	1314804	Gymnopilus chrysopellus
+1	109634	109634	Gymnopilus junonius
+1	1447940	1447940	Gymnopus androsaceus
+1	236213	236213	Gymnopus earleae
+1	944289	944289	Gymnopus luxurians FD-317 M1
+1	85971	85971	Gyrodon lividus
+1	33161	33161	Gyromitra esculenta
+1	101107	101107	Halteromyces radiatus
+1	53685	53685	Hanseniaspora valbyensis
+1	686832	686832	Hebeloma cylindrosporum h7
+1	5364	5364	Heliocybe sulcata
+1	1907527	1907527	Herpotrichia sp. AK1299
+1	101127	101127	Hesseltinella vesiculosa
+1	747525	747525	Heterobasidion irregulare TC 32-1
+1	1397325	1397325	Heterogastridium pycnidioideum ATCC MYA-4631
+1	1140402	1140402	Hexagonia nitida
+1	339724	339724	Histoplasma capsulatum NAm1
+1	1142505	1142505	Homolaphlyctis polyrhiza
+1	245834	245834	Neohortaea acidophila
+1	91943	91943	Hortaea werneckii
+1	138530	138530	Hyalopycnis blepharistoma
+1	82268	82268	Hyaloraphidium curvatum
+1	994086	994086	Hydnomerulius pinastri MD-312
+1	378272	378272	Hydnopolyporus fimbriatus
+1	139363	139363	Hydnum rufescens
+1	72124	72124	Hygrophoropsis aurantiaca
+1	937743	937743	Hymenopellis radicata
+1	354079	354079	Hymenoscyphus varicosporoides
+1	945553	945553	Hypholoma sublateritium FD-334 SS-4
+1	984485	984485	Hyphopichia burtonii NRRL Y-1933
+1	1001833	1001833	Hypoxylon sp. CI-4A
+1	1001938	1001938	Hypoxylon sp. CO27-5
+1	1001937	1001937	Hypoxylon sp. EC38
+1	100027	100027	Hysterium pulicare
+1	1079114	1079114	Ilyonectria europaea
+1	1079257	1079257	Ilyonectria robusta
+1	1079114	1079114	Ilyonectria europaea
+1	5319	5319	Irpex lacteus
+1	933084	933084	Jaapia argillacea MUCL 33604
+1	1569628	1569628	Jaminaea rosea
+1	139406	139406	Kalaharituber pfeilii
+1	1392251	1392251	Karstenula rhodostoma CBS 690.94
+1	1071382	1071382	Kazachstania africana CBS 2517
+1	668251	668251	Khuskia oryzae
+1	61397	61397	Kickxella alabastrina
+1	284590	284590	Kluyveromyces lactis NRRL Y-1140
+1	4999	4999	Kockovaella imperatae
+1	1382522	1382522	Kuraishia capsulata CBS 1993
+1	1095629	1095629	Laccaria amethystina LaAM-08-1
+1	29883	29883	Laccaria bicolor
+1	111141	111141	Lactarius quietus
+1	1837270	1837270	Lactifluus subvellereus
+1	71967	71967	Lactarius volemus
+1	1314785	1314785	Laetiporus sulphureus 93-53
+1	2184036	2184036	Lasiosphaeriaceae sp. AZ0830
+1	92901	92901	Lasiosphaeria
+1	92902	92902	Lasiosphaeria ovina
+1	260670	260670	Lasiosphaeris hirsuta
+1	260671	260671	Lasiosphaeria hispida
+1	1884255	1884255	Coniochaeta sp. AK0013
+1	1391043	1391043	Leiotrametes lactinea
+1	2136021	2136021	Leiotrametes menziesii
+1	1513325	1513325	Leiotrametes sp. BRFM 1775
+1	156609	156609	Lentinellus vulpinus
+1	40482	40482	Lentinula lateritia
+1	5353	5353	Lentinula edodes
+1	40482	40482	Lentinula lateritia
+1	153919	153919	Lentinula raphanica
+1	1328759	1328759	Lentinus tigrinus ALCF2SS1-6
+1	1328758	1328758	Lentinus tigrinus ALCF2SS1-7
+1	5365	5365	Lentinus tigrinus
+1	690899	690899	Lentithecium fluviatile
+1	1709938	1709938	Leotiomycetes sp.
+1	741139	741139	Lepidopterella palustris
+1	64659	64659	Lepista nuda
+1	75374	75374	Leptodontidium
+1	1485227	1485227	Leptodontidium sp. 2 PMI_412
+1	985895	985895	Leptosphaeria maculans JN3
+1	1258663	1258663	Leucoagaricus gongylophorus Ac12
+1	85980	85980	Leucogyrophana mollusca
+1	106004	106004	Leucosporidium creatinivorum
+1	1263082	1263082	Lichtheimia corymbifera JMRC:FSU:9682
+1	420593	420593	Lichtheimia hyalospora
+1	61395	61395	Linderina pennispora
+1	673940	673940	Lindgomyces ingoldianus
+1	45816	45816	Lindra thalassiae
+1	578093	578093	Lineolata rhizophorae
+1	29829	29829	Lipomyces starkeyi
+1	1496277	1496277	Lizonia empirigonia
+1	86794	86794	Lobaria pulmonaria
+1	86794	86794	Lobaria pulmonaria
+1	86794	86794	Lobaria pulmonaria
+1	86794	86794	Lobaria pulmonaria
+1	86794	86794	Lobaria pulmonaria
+1	64571	64571	Lobosporangium transversale
+1	379508	379508	Lodderomyces elongisporus NRRL YB-4239
+1	151671	151671	Lollipopaia minuta
+1	1314788	1314788	Lophiostoma macrostomum CBS 122681
+1	690887	690887	Lophiotrema nucula
+1	390894	390894	Lophium mytilinum
+1	190466	190466	Lophodermium nitens
+1	132173	132173	Loramyces juncicola
+1	380016	380016	Loramyces macrosporus
+1	90686	90686	Lycoperdon perlatum
+1	1400762	1400762	Macrolepiota fuliginosa MF-IS2
+1	35725	35725	Macrophomina phaseolina
+1	1126212	1126212	Macrophomina phaseolina MS6
+1	301207	301207	Macroventuria anomochaeta
+1	242507	242507	Magnaporthe oryzae 70-15
+1	644358	644358	Magnaporthiopsis poae ATCC 64411
+1	425265	425265	Malassezia globosa CBS 7966
+1	1230383	1230383	Malassezia sympodialis ATCC 42132
+1	1328755	1328755	Marasmius fiardii
+1	1896173	1896173	Mariannaea sp. PMI_226
+1	1072389	1072389	Marssonina brunnea f. sp. 'multigermtubi' MB_m1
+1	61414	61414	Martensiomyces pterosporus
+1	1395130	1395130	Massarina eburnea CBS 473.64
+1	100035	100035	Massariosphaeria phaeospora
+1	1280837	1280837	Meira miltonrushii
+1	242475	242475	Melampsora allii-populina
+1	203908	203908	Melampsora larici-populina
+1	5261	5261	Melampsora lini
+1	1155946	1155946	Melanconium sp. 1 NRRL 54901
+1	100047	100047	Melanomma pulvis-pyrius
+1	371115	371115	Melanops tulasnei
+1	2038071	2038071	Melanospora tiffanyae
+1	84746	84746	Melanotaenium endogenum
+1	1095630	1095630	Meliniomyces bicolor E
+2	313359	2482757	Hyaloscypha variabilis
+1	1323573	1323573	Meredithblackwellia eburnea
+1	655827	655827	Metarhizium acridum CQMa 102
+1	655844	655844	Metarhizium robertsii ARSEF 23
+1	869754	869754	Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993
+1	27322	27322	Metschnikowia bicuspidata
+1	178747	178747	Metschnikowia fructicola
+1	294746	294746	Meyerozyma guilliermondii ATCC 6260
+1	36921	36921	Microascus trigonosporus
+1	683840	683840	Microbotryum lychnidis-dioicae p1A1 Lamole
+1	683840	683840	Microbotryum lychnidis-dioicae p1A1 Lamole
+1	196109	196109	Microdochium bolleyi
+1	1682393	1682393	Microdochium trichocladiopsis
+1	554155	554155	Microsporum canis CBS 113480
+1	703497	703497	Microthyrium microscopicum
+1	34349	34349	Mixia osmundae
+1	1391700	1391700	Moesziomyces aphidis DSM 70725
+1	1284197	1284197	Dactylellina haptotyla CBS 200.50
+1	1149898	1149898	Monascus purpureus NRRL 1596
+1	1155947	1155947	Monascus ruber NRRL 1597
+1	1954213	1954213	Moniliella sp. MCA 3643
+1	554373	554373	Moniliophthora perniciosa FA553
+1	1174673	1174673	Morchella importuna
+1	1174673	1174673	Morchella importuna
+1	1174678	1174678	Morchella snyderi
+1	310910	310910	Mortierella elongata
+1	310910	310910	Mortierella elongata
+1	101098	101098	Gamsiella multidivaricata
+1	1069443	1069443	Mortierella verticillata NRRL 6337
+1	29902	29902	Mrakia frigida
+1	36080	36080	Mucor circinelloides
+1	101140	101140	Kirkomyces cordense
+1	101122	101122	Mucor heterogamus
+1	376703	376703	Multifurca ochricompacta
+1	288524	288524	Mutinus elegans
+1	1149848	1149848	Thermothelomyces heterothallica CBS 202.75
+1	1149786	1149786	Thermothelomyces heterothallica
+1	573729	573729	Thermothelomyces thermophila ATCC 42464
+1	1033008	1033008	Mycena albidolilacea
+1	1745969	1745969	Mycena alexandri
+1	380012	380012	Mycena amicta
+1	1033014	1033014	Mycena belliae
+1	230804	230804	Mycena capillaripes
+1	220801	220801	Mycena crocata
+1	230806	230806	Mycena epipterygia
+1	858877	858877	Mycena filopes
+1	1033242	1033242	Mycena floridula
+1	1314675	1314675	Mycena galopus ATCC 62051
+1	230807	230807	Mycena haematopus
+1	1045383	1045383	Mycena rebaudengoi
+1	1033263	1033263	Mycena rosella
+1	230812	230812	Mycena sanguinolenta
+1	1940295	1940295	Mycena sp. CBHHK59/15
+1	1033281	1033281	Mycena vitilis
+1	1047171	1047171	Zymoseptoria tritici
+1	64632	64632	Mycotypha africana
+1	147570	147570	Myriangium duriaei
+1	110576	110576	Myrothecium inundatum
+1	574789	574789	Mytilinidion resinicola
+1	857566	857566	Nadsonia fulvescens var. elongata DSM 6958
+1	1397326	1397326	Classicula fluitans ATCC 64713
+1	51660	51660	Nakaseomyces bacillisporus
+1	51657	51657	Nakaseomyces delphensis
+1	112072	112072	Naohidea sebacea
+1	660122	660122	[Nectria] haematococca mpVI 77-13-4
+1	881290	881290	Nematocida parisii ERTm1
+1	1754190	1754190	Neocallimastix californiae
+1	1287680	1287680	Neofusicoccum parvum UCRNP2
+1	48691	48691	Neolecta irregularis
+1	1314782	1314782	Neolentinus lepideus HHB14362 ss-1
+1	78410	78410	Neonectria ditissima
+1	331117	331117	Aspergillus fischeri NRRL 181
+1	5141	5141	Neurospora crassa
+1	367110	367110	Neurospora crassa OR74A
+1	5141	5141	Neurospora crassa
+1	510953	510953	Neurospora discreta FGSC 8579
+1	588809	588809	Neurospora hispaniola
+1	510952	510952	Neurospora tetrasperma FGSC 2509
+1	267680	267680	Niesslia exilis
+1	578460	578460	Nosema ceranae BRL01
+1	1052685	1052685	Obba rivulosa
+1	110081	110081	Obelidium mucronatum
+1	871575	871575	Ogataea parapolymorpha DL-1
+1	638633	638633	Ogataea polymorpha NCYC 495 leu1.1
+1	913774	913774	Oidiodendron maius Zn
+1	1026881	1026881	Oliveonia pauxilla
+1	1128401	1128401	Omphalotus olearius VT 653.13
+1	1496296	1496296	Onnia scaura
+1	1469910	1469910	Ophiobolus disseminans
+1	1224258	1224258	Ophiostoma novo-ulmi subsp. novo-ulmi H327
+1	1262450	1262450	Ophiostoma piceae UAMH 11346
+1	38032	38032	Ophiostoma piliferum
+2	1117330	1987568	Pecoramyces ruminatium
+1	139077	139077	Mucidula mucida
+1	669874	669874	Pachysolen tannophilus NRRL Y-2460
+1	5093	5093	Byssochlamys nivea
+1	264951	264951	Byssochlamys spectabilis
+1	330517	330517	Panaeolus papilionaceus
+1	5636	5636	Panellus stipticus
+1	5636	5636	Panellus stipticus
+1	48022	48022	Panus rudis
+1	482561	482561	Paracoccidioides brasiliensis Pb03
+1	502780	502780	Paracoccidioides brasiliensis Pb18
+1	1460663	1460663	Paraphaeosphaeria sporulosa
+1	798071	798071	Paraphoma chrysanthemicola
+1	1500003	1500003	Paraphysoderma sedebokerense
+1	35722	35722	Parasitella parasitica
+1	1346257	1346257	Patellaria atrata CBS 101060
+1	463315	463315	Paxillus rubicundulus
+1	1132860	1132860	Paxillus ammoniavirescens
+1	664439	664439	Paxillus involutus ATCC 200175
+1	416450	416450	Penicillium antarcticum
+1	69765	69765	Penicillium bilaiae
+1	5074	5074	Penicillium brevicompactum
+1	1392249	1392249	Penicillium brevicompactum AgRF18
+1	5083	5083	Penicillium canescens
+1	500485	500485	Penicillium rubens Wisconsin 54-1255
+1	1353254	1353254	Penicillium chrysogenum 4088766
+1	36646	36646	Penicillium coprophilum
+1	69771	69771	Penicillium decumbens
+1	1170229	1170229	Penicillium digitatum PHI26
+1	1170230	1170230	Penicillium digitatum Pd1
+1	1314791	1314791	Penicillium expansum ATCC 24692
+1	27334	27334	Penicillium expansum
+1	70095	70095	Penicillium fellutanum
+1	254877	254877	Penicillium flavigenum
+1	69773	69773	Penicillium glabrum
+1	5078	5078	Penicillium griseofulvum
+1	40296	40296	Penicillium italicum
+1	1397297	1397297	Penicillium janthinellum ATCC 10455
+1	1346256	1346256	Penicillium lanosocoeruleum ATCC 48919
+1	1439352	1439352	Penicillium nalgiovense FM193
+1	933388	933388	Penicillium oxalicum 114-2
+1	60169	60169	Penicillium polonicum
+1	1392252	1392252	Penicillium raistrickii ATCC 10490
+1	60172	60172	Penicillium solitum
+1	303698	303698	Penicillium steckii
+1	1316194	1316194	Penicillium subrubescens
+1	2136024	2136024	Penicillium sp. 182_6C1
+1	293382	293382	Penicillium thymicola
+1	29845	29845	Penicillium vulpinum
+1	1897082	1897082	Peniophora sp. CONTA
+1	40463	40463	Peniophora
+1	97972	97972	Periconia macrospinosa
+1	61495	61495	Peziza echinospora
+1	1286976	1286976	Phaeoacremonium minimum UCRPA7
+1	1884258	1884258	Phaeoacremonium sp. FL0889
+1	158046	158046	Phaeomoniella chlamydospora
+1	1770614	1770614	Phaeosphaeriaceae sp. PMI808
+1	1508275	1508275	Phaeosphaeria poagena
+1	231932	231932	Phanerochaete carnosa
+1	5306	5306	Phanerochaete chrysosporium
+1	60185	60185	Phascolomyces articulosus
+1	167367	167367	Phellinidium ferrugineofuscum
+1	40472	40472	Phellinus igniarius
+1	127956	127956	Phellopilus nigrolimitatus
+1	149040	149040	Phialocephala scopiformis
+1	1664694	1664694	Phialophora attae
+1	747484	747484	Phlebia brevispora HHB-7030 SS6
+1	98765	98765	Phlebia centrifuga
+1	745531	745531	Phlebiopsis gigantea 11061_1 CR5-6
+1	109635	109635	Flammula alnicola
+1	109636	109636	Pholiota conissans
+1	181755	181755	Pholiota highlandensis
+1	1408161	1408161	Plenodomus tracheiphilus IPT5
+1	4837	4837	Phycomyces blakesleeanus
+1	269771	269771	Phycomyces nitens
+1	269771	269771	Phycomyces nitens
+1	269771	269771	Phycomyces nitens
+1	121624	121624	Phyllosticta capitalensis
+1	595635	595635	Phyllosticta citriasiana
+1	989973	989973	Phyllosticta citribraziliensis
+1	55181	55181	Phyllosticta citricarpa
+1	1130410	1130410	Phyllosticta citrichinaensis
+1	1907483	1907483	Phyllosticta sp. CPC 27169
+1	1882840	1882840	Phyllosticta sp. CPC 27913
+1	763406	763406	Pichia membranifaciens NRRL Y-2026
+1	644223	644223	Komagataella phaffii GS115
+1	1314780	1314780	Piedraia hortae CBS 480.64
+1	64641	64641	Pilaira anomala
+1	101123	101123	Pilobolus umbonatus
+1	765440	765440	Piloderma croceum F 1598
+1	1907219	1907219	Piptocephalis cylindrospora
+1	1109443	1109443	Serendipita indica DSM 11827
+1	1754191	1754191	Piromyces finnis
+1	73868	73868	Piromyces sp. E2
+1	178872	178872	Pisolithus microcarpus
+1	37468	37468	Pisolithus tinctorius
+1	1280572	1280572	Plectania melastoma
+1	40658	40658	Plectosphaerella cucumerina
+1	40658	40658	Plectosphaerella cucumerina
+1	100044	100044	Pleomassaria siparia
+1	5323	5323	Pleurotus eryngii
+1	5322	5322	Pleurotus ostreatus
+1	1137138	1137138	Pleurotus ostreatus PC15
+1	944288	944288	Plicaturopsis crispa FD-325 SS-3
+1	181527	181527	Pluteus cervinus
+1	42068	42068	Pneumocystis jirovecii
+1	1380566	1380566	Pochonia chlamydosporia 170
+1	515849	515849	Podospora anserina S mat+
+1	5145	5145	Podospora anserina
+1	314037	314037	Podospora appendiculata
+1	48157	48157	Podospora curvicolla
+1	330526	330526	Podospora didyma
+1	705562	705562	Polychaeton citri
+1	682080	682080	Polyplosphaeria fusca
+1	1314778	1314778	Polyporus arcularius HHB13444
+1	139420	139420	Polyporus brumalis
+1	5640	5640	Polyporus squamosus
+1	1330019	1330019	Porodaedalea chrysoloma FP-135951
+1	175858	175858	Porodaedalea niemelaei
+1	670580	670580	Postia placenta MAD-698-R-SB12
+1	104341	104341	Postia placenta
+1	109895	109895	Powellomyces hirtus
+1	27332	27332	Protomyces inouyei
+1	56484	56484	Protomyces lactucaedebilis
+1	1873960	1873960	Pseudocercospora fijiensis
+1	1695903	1695903	Pseudographis elatina
+1	658429	658429	Pseudogymnoascus destructans 20631-21
+1	1141098	1141098	Pseudomassariella vexata
+1	1684307	1684307	Pseudomicrostroma glucosiphilum
+1	470096	470096	Pseudovirgaria hyperparasitica
+1	1151754	1151754	Moesziomyces antarcticus T-34
+1	1305764	1305764	Pseudozyma hubeiensis SY62
+1	181762	181762	Psilocybe cubensis
+1	1884261	1884261	Pterula gracilis
+1	860303	860303	Puccinia coronata var. avenae
+1	860303	860303	Puccinia coronata var. avenae
+1	56615	56615	Puccinia graminis f. sp. tritici
+1	1238467	1238467	Puccinia striiformis f. sp. tritici 104E137A
+1	1165861	1165861	Puccinia striiformis f. sp. tritici PST-78
+1	875184	875184	Puccinia striiformis f. sp. tritici PST-130
+1	630390	630390	Puccinia triticina 1-1 BBBD Race 1
+1	741275	741275	Punctularia strigosozonata HHB-11173 SS5
+1	1323837	1323837	Purpureocillium sp. UdeA0106
+1	5643	5643	Trametes cinnabarina
+1	5643	5643	Trametes cinnabarina
+1	158605	158605	Trametes coccinea
+1	158605	158605	Trametes coccinea
+1	571087	571087	Trametes punicea
+1	158606	158606	Trametes sanguinea
+1	285811	285811	Pseudopyrenochaeta lycopersici
+1	765867	765867	Pyrenochaeta sp. DS3sAY3a
+1	861557	861557	Pyrenophora teres f. teres 0-1
+1	45151	45151	Pyrenophora tritici-repentis
+1	1076935	1076935	Pyronema omphalodes CBS 100304
+1	64574	64574	Radiomyces spectabilis
+1	1314676	1314676	Ramaria acris UT-36052-T
+1	304332	304332	Ramicandelaber brevisporus
+1	1756112	1756112	Rhexocercosporidium sp.
+1	329046	329046	Rhizoclosmatium globosum
+1	1108050	1108050	Rhizoctonia solani AG-1 IB
+1	1504668	1504668	Rhizodiscina lignyota
+1	588596	588596	Rhizophagus irregularis
+1	588596	588596	Rhizophagus irregularis
+1	588596	588596	Rhizophagus irregularis
+1	588596	588596	Rhizophagus irregularis
+1	588596	588596	Rhizophagus irregularis
+1	747089	747089	Rhizophagus irregularis DAOM 181602=DAOM 197198
+1	588596	588596	Rhizophagus irregularis
+1	176626	176626	Rhizopogon salebrosus
+1	98235	98235	Rhizopogon truncatus
+1	180088	180088	Rhizopogon vesiculosus
+1	1314800	1314800	Rhizopogon vinicolor AM-OR11-026
+1	36057	36057	Rhizopogon vulgaris
+1	58291	58291	Rhizopus microsporus
+1	1271458	1271458	Rhizopus microsporus var. chinensis CCTCC M201021
+1	1340429	1340429	Rhizopus microsporus ATCC 52813
+1	58291	58291	Rhizopus microsporus
+1	1745343	1745343	Pezoloma ericae
+1	206335	206335	Rhodocollybia butyracea
+1	34475	34475	Fomitopsis rosea
+1	5288	5288	Rhodotorula diobovata
+1	5286	5286	Rhodotorula toruloides
+1	5286	5286	Rhodotorula toruloides
+1	5286	5286	Rhodotorula toruloides
+1	5286	5286	Rhodotorula toruloides
+1	5286	5286	Rhodotorula toruloides
+1	1130832	1130832	Rhodotorula toruloides NP11
+1	5535	5535	Rhodotorula glutinis
+1	578459	578459	Rhodotorula graminis WP1
+1	1397322	1397322	Cystobasidium minutum MCA 4210
+1	5537	5537	Rhodotorula mucilaginosa
+3	1907212	1907212	Rhodotorula sp. J31
+1	1305733	1305733	Rhodotorula sp. JG-1b
+1	37885	37885	Rhytidhysteron rufulum
+1	264144	264144	Rickenella fibula
+1	50990	50990	Rickenella mellea
+1	219653	219653	Rigidoporus microporus
+1	988480	988480	Rozella allomycis CSF55
+1	281847	281847	Rozella allomycis
+1	98861	98861	Russula brevipes
+1	40490	40490	Russula compacta
+1	258981	258981	Russula dissimulans
+1	152965	152965	Russula ochroleuca
+1	1897646	1897646	Russula aff. rugulosa BPL654
+1	517384	517384	Russula vinacea
+1	1490168	1490168	Rutstroemia firma
+1	131308	131308	Saccharata proteae
+1	1149757	1149757	Saccharomyces cerevisiae M3707
+1	1162671	1162671	Saccharomyces cerevisiae M3836
+1	1162672	1162672	Saccharomyces cerevisiae M3837
+1	1162673	1162673	Saccharomyces cerevisiae M3838
+1	1162674	1162674	Saccharomyces cerevisiae M3839
+1	559292	559292	Saccharomyces cerevisiae S288C
+1	4932	4932	Saccharomyces cerevisiae
+1	698492	698492	Saitoella complicata NRRL Y-17804
+1	90258	90258	Saksenaea vasiformis
+1	51139	51139	Sarcoscypha coccinea
+1	322104	322104	Scheffersomyces stipitis CBS 6054
+1	5334	5334	Schizophyllum commune
+1	1314666	1314666	Schizophyllum commune Loenen D
+1	1314663	1314663	Schizophyllum commune Tattone D
+1	27342	27342	Schizopora paradoxa
+1	653667	653667	Schizosaccharomyces cryophilus OY26
+1	402676	402676	Schizosaccharomyces japonicus yFS275
+1	483514	483514	Schizosaccharomyces octosporus yFS286
+1	4896	4896	Schizosaccharomyces pombe
+1	314040	314040	Schizothecium vesticola
+1	1036808	1036808	Scleroderma citrinum Foug A
+1	1529657	1529657	Sclerogaster hysterangioides
+1	1410009	1410009	Sclerophora sanguinea
+1	665079	665079	Sclerotinia sclerotiorum 1980 UF-70
+1	1884260	1884260	Scytinostroma sp. KUC9413
+1	933852	933852	Serendipita vermifera MAFF 305830
+1	1884257	1884257	Septobasidium sp. PNB30-8B
+1	692275	692275	Sphaerulina musiva SO2202
+1	215467	215467	Sphaerulina populicola
+1	2136033	2136033	Serendipita sp. 407
+1	109899	109899	Serendipita vermifera
+1	690234	690234	Serpula lacrymans var. shastensis SHA21-2
+1	936435	936435	Serpula lacrymans var. lacrymans S7.3
+1	578457	578457	Serpula lacrymans var. lacrymans S7.9
+1	210430	210430	Setomelanomma holmii
+1	93612	93612	Exserohilum turcicum
+1	93612	93612	Exserohilum turcicum
+1	89935	89935	Sirobasidium intermedium
+1	1314777	1314777	Sistotremastrum niveocremeum HHB9708
+1	467971	467971	Sistotremastrum suecicum
+1	106016	106016	Slooffia pilati
+1	133412	133412	Smittium culicis
+1	133412	133412	Smittium culicis
+1	133383	133383	Smittium mucronatum
+1	1302862	1302862	Sodiomyces alkalinus
+1	83679	83679	Sordaria brevicollis
+1	1202976	1202976	Sparassis latifolia
+1	619300	619300	Spathaspora passalidarum NRRL Y-27907
+1	33158	33158	Spathularia flavida
+1	68786	68786	Sphaerobolus stellatus
+1	101115	101115	Spinellus fusiger
+1	645134	645134	Spizellomyces punctatus DAOM BR117
+1	5003	5003	Sporidiobolus pararoseus
+1	999809	999809	Sporisorium reilianum SRZ2
+1	1397324	1397324	Phyllozyma linderae CBS 7893
+1	365493	365493	Sporobolomyces roseus IAM 13481
+1	101117	101117	Sporodiniella umbellata
+1	45794	45794	Sporopachydermia lactativora
+1	1340428	1340428	Sporormia fimetaria CBS 119925
+1	80388	80388	Stachybotrys elegans
+1	321614	321614	Parastagonospora nodorum SN15
+1	765868	765868	Stagonospora sp. SRC1lsM3a
+1	73508	73508	Stanjemonium grisellum
+1	183478	183478	Stemphylium lycopersici
+1	721885	721885	Stereum hirsutum FP-91666 SS1
+1	796026	796026	Sugiyamaella americana
+1	48561	48561	Suillus americanus
+1	1912932	1912932	Suillus ampliporus
+1	1400700	1400700	Suillus brevipes Sb2
+1	1904413	1904413	Suillus clintonianus
+1	48568	48568	Suillus cothurnatus
+1	48569	48569	Suillus decipiens
+1	48571	48571	Suillus granulatus
+1	279518	279518	Suillus hirtellus
+1	930992	930992	Suillus luteus UH-Slu-Lm8-n1
+1	222705	222705	Suillus pictus
+1	48586	48586	Suillus subalutaceus
+1	48587	48587	Suillus subaureus
+1	48589	48589	Suillus tomentosus
+1	983144	983144	Symbiotaphrina kochii CBS 250.77
+1	254439	254439	Blastobotrys attinorum
+1	13706	13706	Syncephalastrum racemosum
+1	1851187	1851187	Syncephalis fuscata
+1	1851185	1851185	Syncephalis plumigaleata
+1	1712513	1712513	Syncephalis pseudoplumigaleata
+1	1392253	1392253	Talaromyces aculeatus ATCC 10409
+1	5094	5094	Talaromyces
+1	441960	441960	Talaromyces marneffei ATCC 18224
+1	1131652	1131652	Talaromyces proteolyticus
+1	441959	441959	Talaromyces stipitatus ATCC 10500
+1	1097556	1097556	Taphrina deformans PYCC 5710
+1	161662	161662	Teratosphaeria nubilosa
+1	82571	82571	Terfezia boudieri
+1	139407	139407	Terfezia claveryi
+1	1882483	1882483	Testicularia cyperi
+1	101142	101142	Thamnidium elegans
+1	78915	78915	Thamnocephalis sphaerospora
+1	107832	107832	Thanatephorus cucumeris
+1	319061	319061	Thelebolus microsporus
+1	46453	46453	Thelebolus stercoreus
+1	370292	370292	Thelephora ganbajun
+1	1133049	1133049	Thermoascus aurantiacus ATCC 26904
+1	5541	5541	Thermomyces lanuginosus
+1	1450529	1450529	Thielavia antarctica
+1	1384585	1384585	Thielavia appendiculata CBS 731.68
+1	1384583	1384583	Thielavia arenaria CBS 508.74
+1	1384584	1384584	Thielavia hyrcaniae CBS 757.83
+1	35720	35720	Thielavia terrestris
+1	1506992	1506992	Thozetella sp. PMI_491
+1	1037660	1037660	Tilletiaria anomala UBC 951
+1	58915	58915	Robbauera albescens
+1	1954214	1954214	Tilletiopsis sp. TKC30
+1	58919	58919	Tilletiopsis washingtonensis
+1	29910	29910	Tolypocladium inflatum
+1	311114	311114	Torpedospora radiata
+1	767744	767744	Tortispora caseinolytica NRRL Y-17796
+1	4950	4950	Torulaspora delbrueckii
+1	1048955	1048955	Tothia fuscella
+1	5632	5632	Lenzites betulinus
+1	575983	575983	Trametes cingulata
+1	160864	160864	Trametes gibbosa
+1	1140396	1140396	Trametes ljubarskyi
+1	259368	259368	Trametes maxima
+1	526243	526243	Trametes meyenii
+1	239206	239206	Trametes polyzona
+1	154538	154538	Trametes pubescens
+1	717944	717944	Trametes versicolor FP-101664 SS1
+1	1111950	1111950	Trametopsis cervina
+1	390896	390896	Trematosphaeria pertusa
+1	71784	71784	Naematelia encephala
+1	578456	578456	Tremella mesenterica DSM 1558
+1	1356356	1356356	Trichaptum abietinum L-15831 ss-1
+1	43433	43433	Tricharina praecox
+1	703511	703511	Trichodelitschia bisporula
+1	1042311	1042311	Trichoderma asperellum CBS 433.97
+1	101201	101201	Trichoderma asperellum
+1	452589	452589	Trichoderma atroviride IMI 206040
+1	58853	58853	Trichoderma citrinoviride
+1	398673	398673	Trichoderma gamsii
+1	983964	983964	Trichoderma harzianum CBS 226.95
+1	5544	5544	Trichoderma harzianum
+1	983965	983965	Trichoderma longibrachiatum ATCC 18648
+1	51453	51453	Trichoderma reesei
+1	431241	431241	Trichoderma reesei QM6a
+1	413071	413071	Trichoderma virens Gv29-8
+1	40145	40145	Tricholoma matsutake
+1	64416	64416	Trichomonascus petasosporus
+1	47213	47213	Trichophaea hybrida
+1	559305	559305	Trichophyton rubrum CBS 118892
+1	663202	663202	Trichophyton verrucosum HKI 0517
+1	1186058	1186058	Trichosporon asahii var. asahii CBS 2479
+1	1220162	1220162	Trichosporon asahii var. asahii CBS 8904
+1	457529	457529	Haglerozyma chiarellii
+1	105714	105714	Cutaneotrichosporon guehoae
+1	879819	879819	Cutaneotrichosporon oleaginosum
+1	1196434	1196434	Trinosporium guianense
+1	1117335	1117335	Phlyctochytrium arcticum
+1	1055551	1055551	Tritirachium sp. CBS 265.96
+1	152316	152316	Truncatella angustata
+1	1048519	1048519	Viridothelium virens
+1	42251	42251	Tuber borchii
+1	656061	656061	Tuber melanosporum Mel28
+1	1051891	1051891	Tulasnella calospora MUT 4182
+1	156515	156515	Tulasnella calospora
+1	91625	91625	Umbelopsis isabellina
+1	41833	41833	Umbelopsis ramanniana
+1	1883073	1883073	Umbelopsis sp. AD052
+1	336963	336963	Uncinocarpus reesii 1704
+1	2183100	2183100	Urocystis primulicola
+1	111620	111620	Usnea florida
+1	1159556	1159556	Ustilaginoidea virens
+1	1128400	1128400	Ustilago hordei Uh4857-4
+1	237631	237631	Ustilago maydis 521
+1	152775	152775	Valetoniellopsis laxa
+1	1314806	1314806	Vararia minispora EC-137
+1	941530	941530	Veluticeps abietina
+1	5025	5025	Venturia inaequalis
+1	415593	415593	Venturia pyrina
+1	253628	253628	Verruconis gallopava
+1	85948	85948	Didymosphaeria enalia
+1	27335	27335	Verticillium albo-atrum
+1	27337	27337	Verticillium dahliae
+2	1520773	1673888	Violaceomyces palustris
+1	706473	706473	Volvariella volvacea V23
+1	47058	47058	Vuilleminia comedens
+1	47058	47058	Vuilleminia comedens
+1	1299270	1299270	Wallemia ichthyophaga EXF-994
+1	671144	671144	Wallemia mellicola CBS 633.66
+1	318751	318751	Westerdykella ornata
+1	45788	45788	Wickerhamiella domercqiae
+1	4927	4927	Wickerhamomyces anomalus
+1	43439	43439	Wilcoxina mikolae
+1	81056	81056	Wolfiporia cocos
+1	714311	714311	Xanthoria parietina 46-1-SA22
+1	301416	301416	Xenasmatella vaga
+1	36058	36058	Xerocomus badius
+1	37992	37992	Xylaria hypoxylon
+1	1940296	1940296	Xylariales sp. PMI_506
+1	1328760	1328760	Xylona heveae TC161
+1	4952	4952	Yarrowia lipolytica
+1	284591	284591	Yarrowia lipolytica CLIB122
+1	1213189	1213189	Zancudomyces culisetae
+1	1080233	1080233	Zasmidium cellare ATCC 36951
+1	42210	42210	Zoophthora radicans
+1	160035	160035	Zopfia rhizophila
+1	64656	64656	Zychaea mexicana
+1	5621	5621	Zygoascus hellenicus
+1	4956	4956	Zygosaccharomyces rouxii
+1	985147	985147	Zymoseptoria ardabiliae STIR04_1.1.1
+1	1047168	1047168	Zymoseptoria brevis
+1	985140	985140	Zymoseptoria pseudotritici STIR04_2.2.1
+1	1016881	1016881	Ascocoryne sarcoides NRRL 50072
+1	701091	701091	Bipolaris maydis C5
