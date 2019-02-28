@@ -121,6 +121,7 @@
 1250373	Aspros1_AssemblyScaffolds_Repeatmasked.fasta.gz	Aspros1
 979771	Aspsac1_AssemblyScaffolds_Repeatmasked.fasta.gz	Aspsac1
 487660	Aspscle1_AssemblyScaffolds_Repeatmasked.fasta.gz	Aspscle1
+487660	Aspscle1_AssemblyScaffolds_Repeatmasked.fasta.gz	Aspscle1
 319627	Aspscl1_AssemblyScaffolds_Repeatmasked.fasta.gz	Aspscl1
 138282	Aspsc1_AssemblyScaffolds_Repeatmasked.fasta.gz	Aspsc1
 1810926	Aspstel1_1_AssemblyScaffolds_Repeatmasked.fasta.gz	Aspstel1_1

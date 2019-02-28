@@ -1,0 +1,135 @@
+[Organism]	[NCBI taxon ID]
+Aspergillus kawachii IFO 4308	1033177
+Aspergillus versicolor CBS 583.65	1036611
+Aspergillus sydowii CBS 593.65	1036612
+Phytophthora cinnamomi var. cinnamomi CBS 144.22	1048749
+Aspergillus wentii DTO 134E9	1073089
+Aspergillus zonatus CBS 506.65	1073090
+Fusarium oxysporum f. sp. cubense tropical race 4 54006	1089451
+Fusarium oxysporum f. sp. melonis 26406	1089452
+Aspergillus luchuensis CBS 106.47	1137211
+Saprolegnia diclina VS20	1156394
+Aspergillus glaucus CBS 516.65	1160497
+Pneumocystis jirovecii SE8	1209962
+Pythium aphanidermatum DAOM BR444	1223555
+Pythium arrhenomanes ATCC 12531	1223556
+Pythium irregulare DAOM BR486	1223557
+Pythium iwayamai DAOM BR242034	1223558
+Pythium ultimum var. sporangiiferum BR650	1223559
+Phytopythium vexans Pythium vexans DAOM BR484	1223560
+Fusarium proliferatum ET1	1227346
+Fusarium oxysporum f. sp. cubense race 1	1229664
+Fusarium oxysporum f. sp. cubense race 4	1229665
+Fusarium fujikuroi IMI 58289	1279085
+Cryptococcus gattii EJB2	1296103
+Cryptococcus gattii VGIV IND107	1296105
+Cryptococcus gattii NT-10	1296108
+Cryptococcus gattii VGIII Cryptococcus gattii CA1873	1296111
+Aspergillus campestris IBT 28561	1392248
+Aspergillus steynii IBT 23096	1392250
+Aspergillus novofumigatus IBT 16806	1392255
+Aspergillus ochraceoroseus IBT 24754	1392256
+Sporothrix schenckii 1099-18	1397361
+Sporothrix brasiliensis 5110	1398154
+Cryptococcus neoformans var. neoformans JEC21	214684
+Coccidioides posadasii C735 delta SOWgp	222929
+Aspergillus nidulans FGSC A4	227321
+Fusarium graminearum PH-1	229533
+Cryptococcus neoformans var. grubii H99	235443
+Candida albicans SC5314	237561
+Ustilago maydis 521	237631
+Coprinopsis cinerea okayama7#130	240176
+Magnaporthe oryzae 70-15	242507
+Rhizopus delemar RA 99-880	246409
+Coccidioides immitis RS	246410
+Phanerochaete chrysosporium RP-78	273507
+Cryptococcus neoformans var. neoformans B-3501A	283643
+Yarrowia lipolytica CLIB122	284591
+Candida glabrata CBS 138	284593
+Schizosaccharomyces pombe 972h-	284812
+Candida albicans WO-1	294748
+Cryptococcus deuterogattii R265	294750
+Clavispora lusitaniae ATCC 42720	306902
+Aspergillus fumigatus Af293	330879
+Aspergillus fischeri NRRL 181	331117
+Botrytis cinerea B05.10	332648
+Aspergillus flavus NRRL3357	332952
+Fusarium verticillioides 7600	334819
+Zymoseptoria tritici IPO323	336722
+Uncinocarpus reesii 1704	336963
+Histoplasma capsulatum NAm1	339724
+Aspergillus terreus NIH2624	341663
+Aspergillus clavatus NRRL 1	344612
+Neurospora crassa OR74A	367110
+Cryptococcus gattii WM276	367775
+Aspergillus niger ATCC 1015	380704
+Coccidioides immitis H538.4	396776
+Schizosaccharomyces japonicus yFS275	402676
+Batrachochytrium dendrobatidis JEL423	403673
+Phytophthora infestans T30-4	403677
+Coccidioides immitis RMSCC 2394	404692
+Puccinia graminis f. sp. tritici CRL 75-36-700-3	418459
+Aspergillus niger CBS 513.88	425011
+Malassezia globosa CBS 7966	425265
+Fusarium oxysporum f. sp. lycopersici 4287	426428
+Trichoderma reesei QM6a	431241
+Pythium ultimum DAOM BR144	431595
+Talaromyces stipitatus ATCC 10500	441959
+Talaromyces marneffei ATCC 18224	441960
+Coccidioides posadasii str. Silveira	443226
+Histoplasma capsulatum G186AR	447093
+Histoplasma capsulatum G217B	447094
+Aspergillus fumigatus A1163	451804
+Coccidioides posadasii RMSCC 3488	454284
+Coccidioides immitis RMSCC 3703	454286
+Coccidioides posadasii RMSCC 2133	469470
+Coccidioides posadasii RMSCC 3700	469471
+Coccidioides posadasii CPA 0001	469472
+Paracoccidioides brasiliensis Pb03	482561
+Schizosaccharomyces octosporus yFS286	483514
+Coccidioides posadasii RMSCC 1037	490065
+Coccidioides posadasii RMSCC 1038	490066
+Coccidioides posadasii CPA 0020	490068
+Coccidioides posadasii CPA 0066	490069
+Penicillium rubens Wisconsin 54-1255	500485
+Paracoccidioides lutzii Pb01	502779
+Paracoccidioides brasiliensis Pb18	502780
+Aspergillus oryzae RIB40	510516
+Neurospora tetrasperma FGSC 2508	510951
+Neurospora discreta FGSC 8579	510953
+Histoplasma capsulatum H88	544711
+Histoplasma capsulatum H143	544712
+Saccharomyces cerevisiae S288c	559292
+Hyaloperonospora arabidopsidis Emoy2	559515
+Candida parapsilosis CDC317	578454
+Tremella mesenterica DSM 1558	578456
+Allomyces macrogynus ATCC 38327	578462
+Aspergillus carbonarius ITEM 5010	602072
+Spizellomyces punctatus DAOM BR117	645134
+Fusarium oxysporum Fo47	660027
+Sclerotinia sclerotiorum 1980 UF-70	665079
+Aspergillus aculeatus ATCC 16872	690307
+Saprolegnia parasitica CBS 223.65	695850
+Melampsora larici-populina 98AG31	747676
+Mucor circinelloides f. lusitanicus CBS 277.49	747725
+Phytophthora parasitica INRA-310	761204
+Phycomyces blakesleeanus NRRL 1555(-)	763407
+Phytophthora capsici LT1534	763924
+Aspergillus brasiliensis CBS 101740	767769
+Aspergillus tubingensis CBS 134.48	767770
+Sordaria macrospora k-hell	771870
+Albugo laibachii Nc14	890382
+Albugo candida 2VRR	911350
+Sporisorium reilianum SRZ2	999809
+Aphanomyces astaci strain APO3	112090
+Aphanomyces invadans NJM9701    157072
+Aspergillus niger strain N402 (ATCC64974)	5061
+Candida albicans SC5314_B   5476
+Candida auris strain B8441	498019
+Cryptococcus neoformans var. grubii KN99	5207
+Lomentospora prolificans JHH-5317	41688
+Magnaporthe oryzae BR32	318829
+Phytophthora ramorum strain Pr102	164328
+Phytophthora sojae strain P6497	67593
+Scedosporium apiospermum IHEM 14462	563466
+Yarrowia lipolytica CLIB89 (W29)	755266
